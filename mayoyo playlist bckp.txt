@@ -162,16 +162,35 @@ https://m2.ballnaja.com:8443/beIN_Sports_Rugby/tracks-v1a1/mono.m3u8
 https://m2.ballnaja.com:8443/BeIn_Sports_2_Eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU", BEIN Sports 3
 https://m2.ballnaja.com:8443/BeIn_Sports_3_A/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="OLAHRAGA", TRUE SPORT PREMIER 1 
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="OLAHRAGA", TRUE SPORT PREMIER 2 
-https://edge1.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="OLAHRAGA",True Premiere 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="OLAHRAGA",True Premiere 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="OLAHRAGA",True Premiere 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="OLAHRAGA",True Premiere 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier5.png" group-title="OLAHRAGA", True Premiere 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="OLAHRAGA", BEIN SPORTS TH
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU" group-title="OLAHRAGA", BEIN SPORTS 2 TH
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU" group-title="OLAHRAGA", BEIN SPORTS 1 TRUE
 https://anutv.xyz/live/seria/seri1.m3u8
+
 #EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="OLAHRAGA",KSA Sports 1 HD
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="KSASports2.sa" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="OLAHRAGA",KSA Sports 2 HD
@@ -180,6 +199,7 @@ https://edge.taghtia.com/sa/10.m3u8
 https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://i.imgur.com/TNZEKP6.png" group-title="OLAHRAGA",KSA Sports 4 HD
 https://edge.taghtia.com/sa/17.m3u8
+
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="OLAHRAGA",Sporttv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="OLAHRAGA",Sporttv 2
@@ -188,6 +208,7 @@ https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="OLAHRAGA",Sporttv 4
 https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+
 #EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="OLAHRAGA",Eleven 1
 https://kusnadipepenk.github.io/ntn/ele1.m3u8
 #EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="OLAHRAGA",Eleven 2
@@ -261,6 +282,7 @@ https://kusnadipepenk.github.io/ntn/elesp1.m3u8
 https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 #EXTINF:0 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="OLAHRAGA",Eleven Sport 3
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
+
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="OLAHRAGA", BEIN SPORT 1 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="OLAHRAGA", BEIN SPORT 2 TR
@@ -275,6 +297,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=109251_&exten
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13599_&extension=ts
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="OLAHRAGA", BEIN MAX 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=15181_&extension=ts
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="OLAHRAGA", TRUE SPORT PREMIER 1
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115758_&extension=ts
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="OLAHRAGA", TRUE SPORT PREMIER 2
@@ -383,6 +406,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 ######################     SKY SPORT   #######################################
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT CALCIO
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692416&extension=ts&play_token=YhfOXWSG12
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT MOTOGP
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT F1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extension=ts&play_token=U71gOhaI4v
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT NBA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692419&extension=ts&play_token=0U5QR5bFGs
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT TENNIS
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692431&extension=ts&play_token=zKyDwE3Cw4
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT NEWS
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83448&extension=ts&play_token=39xQduqNy6
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT ACTION
@@ -395,8 +428,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83455&extensi
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692435&extension=ts&play_token=s8alaxVAYe
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT CRICKET
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83454&extension=ts&play_token=ztJeMHyfna
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT F1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extension=ts&play_token=U71gOhaI4v
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT F1 IT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT MIX
@@ -407,16 +438,8 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83446&extensi
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83451&extension=ts&play_token=Qm3z3S8n0h
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT GOLF IT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692441&extension=ts&play_token=MvGc4Llgzz
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT NBA
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692419&extension=ts&play_token=0U5QR5bFGs
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT MOTOGP
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT TENNIS
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692431&extension=ts&play_token=zKyDwE3Cw4
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT 24
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692438&extension=ts&play_token=acstavTUsy
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT CALCIO
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692416&extension=ts&play_token=YhfOXWSG12
 
 
 
