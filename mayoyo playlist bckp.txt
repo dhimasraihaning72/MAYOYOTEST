@@ -148,6 +148,11 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extens
 
 ###########################  OLAHRAGA  ####################################
 ############################################################################
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713" group-title="OLAHRAGA",ABU DHABI SPORT 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713" group-title="OLAHRAGA",ABU DHABI SPORT 2 
+
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="OLAHRAGA",Astro SuperSport 1
 https://m3.ballnaja.com/live/assp1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="OLAHRAGA",Astro SuperSport 2
