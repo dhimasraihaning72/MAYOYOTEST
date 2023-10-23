@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="MAYOYO PLAYLIST KHUSUS",MOCHIDOKUNASHI
+#EXTINF:-1 tvg-logo="https://media0.giphy.com/media/ayMW3eqvuP00o/giphy.gif?cid=ecf05e47h7ef5mbr8e0eafsi42qm8cqmfk99moqghslassxp&ep=v1_gifs_search&rid=giphy.gif&ct=g" group-title="MAYOYO PLAYLIST KHUSUS",MOCHIDOKUNASHI
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
 
 
