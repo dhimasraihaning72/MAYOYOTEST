@@ -169,16 +169,8 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extens
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713" group-title="OLAHRAGA",ABU DHABI SPORT 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713" group-title="OLAHRAGA",ABU DHABI SPORT 2 
-
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="OLAHRAGA",Astro SuperSport 1
-https://m3.ballnaja.com/live/assp1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="OLAHRAGA",Astro SuperSport 2
-https://m3.ballnaja.com/live/assp2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="OLAHRAGA",Astro SuperSport 3
-https://m3.ballnaja.com/live/assp3/chunks.m3u8
-#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115", Astro Supersport 4
-https://m3.ballnaja.com/live/assp4/chunks.m3u8
+
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU", BEIN Rugby
 https://m2.ballnaja.com:8443/beIN_Sports_Rugby/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU", BEIN Sports 2
@@ -258,16 +250,7 @@ https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21002.m3u8
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165105
 #EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="OLAHRAGA",beIN Sports 3
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298506
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="OLAHRAGA",Astro SuperSport
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="OLAHRAGA",Astro SuperSport 2
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157556
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="OLAHRAGA",Astro SuperSport 3
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157557
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="OLAHRAGA",Astro SuperSport 4
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157558
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="OLAHRAGA",Astro SuperSport 5
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287792
+
 
 #EXTINF:0  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="OLAHRAGA",Arena 1 Sport
 https://kusnadipepenk.github.io/ntn/arns1.m3u8
