@@ -374,6 +374,17 @@ http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/269466
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png" group-title="OLAHRAGA", ES: MOVISTAR LaLiga 5
 http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/281792
 
+#EXTINF:-1 tvg-logo="https://anutv.xyz/gambar/warnings.jpeg"group-title="[LIVE] Bundesliga", REFRESH BEFORE GO
+https://www.googleapis.com/drive/v3/files/1POg60MplNQC1AEk5RQJnbMryyFgHYVMq?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
+#EXTINF:-1 tvg-logo="https://anutv.xyz/gambar/bundes.png"group-title="[LIVE] Bundesliga", LIVE Bundes 1 ANUTV
+https://anutv.xyz/live/bundes/bundes1.m3u8#EXTINF:-1 tvg-logo="https://anutv.xyz/gambar/bundes.png"group-title="[LIVE] Bundesliga", LIVE Bundes 2 ANUTV
+https://anutv.xyz/live/bundes/bundes2.m3u8
+#EXTINF:-1 tvg-logo="https://anutv.xyz/gambar/bundes.png"group-title="[LIVE] Bundesliga", LIVE Bundes 3 ANUTV
+https://anutv.xyz/live/bundes/bundes3.m3u8
+#EXTINF:-1 tvg-logo="https://anutv.xyz/gambar/bundes.png"group-title="[LIVE] Bundesliga", LIVE Bundes 4 ANUTV
+https://anutv.xyz/live/bundes/bundes4.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
+
 
 ######################     SKY SPORT   #######################################
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT CALCIO
