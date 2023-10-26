@@ -173,6 +173,9 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extens
 
 ###########################  OLAHRAGA  ####################################
 ############################################################################
+#EXTINF:-1 tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA",ON SPORT
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/52697
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713" group-title="OLAHRAGA",ABU DHABI SPORT 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713" group-title="OLAHRAGA",ABU DHABI SPORT 2 
