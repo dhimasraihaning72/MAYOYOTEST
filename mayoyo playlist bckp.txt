@@ -20,8 +20,6 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=10324
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR004.png" group-title="LIGA INGGRIS" tvg-group-title="Arena Sport",Arena Sport 4 HD
 http://80.252.37.194:5000/udp/233.233.233.6:12000
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xCyK0ZHX/Super-Sport-Premier-League.png" group-title="LIGA INGGRIS", SuperSport Premier League
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA INGGRIS", Setanta Sports
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1040328&extension=ts&play_token=33OqsgppFx
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA INGGRIS", BEIN SPORT 3
