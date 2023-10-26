@@ -170,6 +170,111 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extens
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extension=ts&play_token=cz0KKH7WWe
 
+###########################  PLAYLIST PREMIUM 1-12  ####################################
+############################################################################
+
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",UAE: Dubai Racing 1
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/4668
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",UAE: Dubai Racing 2
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/1118
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",UAE: Dubai Sport 1
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/51418
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",UAE: Dubai Sport 2
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/51417
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",UAE: Dubai Sport 3
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/51419
+tverdnic2006/5KdVRcHHrH/1119
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",AR: Abu Dhabi Sport 2 HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/4667
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",AR: Abu Dhabi Sport 3 HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50152
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",AR: Abu Dhabi Sport PREMIUM 1 HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/54847
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",AR: Abu Dhabi Sport PREMIUM 2 HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/54848
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",AR: ON  Sport HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/46273
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",AR: ON Time Sports HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53258
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",AR: ON Time Sports 2 HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53259
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",AR: ON Time Sports 3 HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53260
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_CANAL+_sports_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50145
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_BeIN_SPORTS_1_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/3682
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_BeIN_SPORTS_2_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/47302
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_BeIN_SPORTS_3_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/3680
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_RMC_Sport_03_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/46712
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_EUROSPORT_1_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/51512
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_EUROSPORT_2_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/51513
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_RMC_Sport_01_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/3720
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_RMC_Sport_02_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/46711
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_BEIN_SPORT_MAX_07
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49617
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_BEIN_SPORT_MAX_08
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49616
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_BEIN_SPORT_MAX_09
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49615
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_BEIN_SPORT_MAX_05
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49619
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_BEIN_SPORT_MAX_04
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49620
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_BEIN_SPORT_MAX_06
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49618
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_BEIN_SPORT_MAX_10
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49614
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_MULTISPORT_01_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53639
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_MULTISPORT_02_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53640
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_MULTISPORT_03_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53641
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_MULTISPORT_04_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53642
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_MULTISPORT_05_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53643
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",FR_MULTISPORT_06_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53644
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BE: PLAY SPORTS 1 HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/52359
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BE: PLAY SPORTS 2 HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/52360
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BE: PLAY SPORTS 3 HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/52361
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_Sky_Sport_MotoGP_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/153
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_SKY_SPORT_FOOTBALL_HD
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50859
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_Dazn_Sport_1
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50881
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_Dazn_Sport_2
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50882
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_Dazn_Sport_3
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50883
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_Dazn_Sport_4
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50884
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_Dazn_Sport_5
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50885
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_Dazn_Sport_6
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50886
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_Dazn_Sport_7
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50887
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_Dazn_Sport_8
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50888
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_Dazn_Sport_9
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50889
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",IT_Sky_Sport_Serie_A
+http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/54776
+
 
 ###########################  OLAHRAGA  ####################################
 ############################################################################
