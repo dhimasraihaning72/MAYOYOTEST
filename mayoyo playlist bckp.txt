@@ -170,203 +170,203 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extens
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extension=ts&play_token=cz0KKH7WWe
 
-#######################  OLAHRAGA WORK  ################################
+#######################  CHANNEL OLAHRAGA #1  ################################
 
-#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK", ARENA SPORT 1
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1", ARENA SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena1.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK", ARENA SPORT 2
+#EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1", ARENA SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena2.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK", ARENA SPORT 3
+#EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1", ARENA SPORT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena3.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK", ARENA SPORT 4
+#EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1", ARENA SPORT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena4.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport5Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK", ARENA SPORT 5
+#EXTINF:-1 tvg-id="ArenaSport5Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1", ARENA SPORT 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena5.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport6Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK", ARENA SPORT 6
+#EXTINF:-1 tvg-id="ArenaSport6Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1", ARENA SPORT 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena6.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1x2Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK", ARENA SPORT 1x2
+#EXTINF:-1 tvg-id="ArenaSport1x2Serbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1", ARENA SPORT 1x2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena_1x2.mpd
 
-#EXTINF:-1 tvg-id="ArenaFightSerbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK", ARENA FIGHT
+#EXTINF:-1 tvg-id="ArenaFightSerbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1", ARENA FIGHT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/arena_fight.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK", ARENA SPORT PREMIUM 1
+#EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1", ARENA SPORT PREMIUM 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK", ARENA SPORT PREMIUM 2
+#EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1", ARENA SPORT PREMIUM 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 
-#EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK", ARENA SPORT PREMIUM 3
+#EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1", ARENA SPORT PREMIUM 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
 https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd
 
-#EXTINF:-1 tvg-id="Inter TV" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , INTER TV
+#EXTINF:-1 tvg-id="Inter TV" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , INTER TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-033/stream.mpd
 
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN X BEIN SPORTS 1
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN X BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-039/stream.mpd
 
-#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN X BEIN SPORTS 2
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN X BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-040/stream.mpd
 
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN X BEIN SPORTS 3
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN X BEIN SPORTS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-041/stream.mpd
 
 
-#EXTINF:-1 tvg-id="DAZN 1 DE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN 1 DE 
+#EXTINF:-1 tvg-id="DAZN 1 DE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN 1 DE 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 2 DE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN 2 DE 
+#EXTINF:-1 tvg-id="DAZN 2 DE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN 2 DE 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN 1 ES 
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN 1 ES 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN 2 ES 
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN 2 ES 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 tvg-id="Dazn ELEVEN 1" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN ELEVEN 1
+#EXTINF:-1 tvg-id="Dazn ELEVEN 1" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN ELEVEN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd  
 
-#EXTINF:-1 tvg-id="Dazn ELEVEN 2" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN ELEVEN 2
+#EXTINF:-1 tvg-id="Dazn ELEVEN 2" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN ELEVEN 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd  
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN 3" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN ELEVEN 3
+#EXTINF:-1 tvg-id="DAZN ELEVEN 3" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN ELEVEN 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd  
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN 4" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN ELEVEN 4
+#EXTINF:-1 tvg-id="DAZN ELEVEN 4" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN ELEVEN 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd  
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN 5" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN ELEVEN 5
+#EXTINF:-1 tvg-id="DAZN ELEVEN 5" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN ELEVEN 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd 
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN 6" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN ELEVEN 6
+#EXTINF:-1 tvg-id="DAZN ELEVEN 6" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN ELEVEN 6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd 
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN ELEVEN PRO LEAGUE 1
+#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN ELEVEN PRO LEAGUE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-016/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN LaLiga
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN LaLiga
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN COMBAT
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN COMBAT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN FAST+
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN FAST+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN RISE
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN RISE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , DAZN WOMEN'S FOOTBALL
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , DAZN WOMEN'S FOOTBALL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 
-#EXTINF:-1 tvg-id="Play Sports 1" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , PLAY SPORTS 1
+#EXTINF:-1 tvg-id="Play Sports 1" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , PLAY SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 tvg-id="Play Sports 2" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , PLAY SPORTS 2
+#EXTINF:-1 tvg-id="Play Sports 2" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , PLAY SPORTS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 tvg-id="Play Sports 3" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA WORK" , PLAY SPORTS 3
+#EXTINF:-1 tvg-id="Play Sports 3" tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #1" , PLAY SPORTS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
@@ -374,108 +374,111 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 
 ###########################  PLAYLIST PREMIUM 1-12  ####################################
 ############################################################################
+###########################  CHANNEL OLAHRAGA #2  ####################################
+############################################################################
 
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", Dubai Racing 1
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", Dubai Racing 1
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/4668
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", Dubai Racing 2
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", Dubai Racing 2
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/1118
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", Dubai Sport 1
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", Dubai Sport 1
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/51418
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", Dubai Sport 2
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", Dubai Sport 2
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/51417
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", Dubai Sport 3
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", Dubai Sport 3
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/51419
 tverdnic2006/5KdVRcHHrH/1119
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", Abu Dhabi Sport 2 HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", Abu Dhabi Sport 2 HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/4667
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", Abu Dhabi Sport 3 HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", Abu Dhabi Sport 3 HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50152
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", Abu Dhabi Sport PREMIUM 1 HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", Abu Dhabi Sport PREMIUM 1 HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/54847
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", Abu Dhabi Sport PREMIUM 2 HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", Abu Dhabi Sport PREMIUM 2 HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/54848
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", ON  Sport HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", ON  Sport HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/46273
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", ON Time Sports HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", ON Time Sports HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53258
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", ON Time Sports 2 HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", ON Time Sports 2 HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53259
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", ON Time Sports 3 HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", ON Time Sports 3 HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53260
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",CANAL+_sports_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",CANAL+_sports_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50145
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BeIN_SPORTS_1_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",BeIN_SPORTS_1_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/3682
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BeIN_SPORTS_2_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",BeIN_SPORTS_2_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/47302
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BeIN_SPORTS_3_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",BeIN_SPORTS_3_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/3680
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",RMC_Sport_03_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",RMC_Sport_03_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/46712
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",EUROSPORT_1_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",EUROSPORT_1_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/51512
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",EUROSPORT_2_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",EUROSPORT_2_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/51513
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",RMC_Sport_01_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",RMC_Sport_01_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/3720
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",RMC_Sport_02_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",RMC_Sport_02_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/46711
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BEIN_SPORT_MAX_07
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",BEIN_SPORT_MAX_07
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49617
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BEIN_SPORT_MAX_08
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",BEIN_SPORT_MAX_08
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49616
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BEIN_SPORT_MAX_09
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",BEIN_SPORT_MAX_09
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49615
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BEIN_SPORT_MAX_05
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",BEIN_SPORT_MAX_05
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49619
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BEIN_SPORT_MAX_04
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",BEIN_SPORT_MAX_04
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49620
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BEIN_SPORT_MAX_06
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",BEIN_SPORT_MAX_06
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49618
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",BEIN_SPORT_MAX_10
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",BEIN_SPORT_MAX_10
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/49614
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",MULTISPORT_01_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",MULTISPORT_01_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53639
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",MULTISPORT_02_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",MULTISPORT_02_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53640
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",MULTISPORT_03_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",MULTISPORT_03_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53641
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",MULTISPORT_04_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",MULTISPORT_04_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53642
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",MULTISPORT_05_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",MULTISPORT_05_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53643
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",MULTISPORT_06_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",MULTISPORT_06_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/53644
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", PLAY SPORTS 1 HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", PLAY SPORTS 1 HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/52359
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", PLAY SPORTS 2 HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", PLAY SPORTS 2 HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/52360
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM", PLAY SPORTS 3 HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2", PLAY SPORTS 3 HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/52361
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",Sky_Sport_MotoGP_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",Sky_Sport_MotoGP_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/153
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",SKY_SPORT_FOOTBALL_HD
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",SKY_SPORT_FOOTBALL_HD
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50859
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",Dazn_Sport_1
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",Dazn_Sport_1
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50881
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",Dazn_Sport_2
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",Dazn_Sport_2
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50882
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",Dazn_Sport_3
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",Dazn_Sport_3
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50883
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",Dazn_Sport_4
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",Dazn_Sport_4
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50884
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",Dazn_Sport_5
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",Dazn_Sport_5
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50885
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",Dazn_Sport_6
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",Dazn_Sport_6
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50886
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",Dazn_Sport_7
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",Dazn_Sport_7
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50887
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",Dazn_Sport_8
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",Dazn_Sport_8
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50888
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",Dazn_Sport_9
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",Dazn_Sport_9
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/50889
-#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="OLAHRAGA PREMIUM",Sky_Sport_Serie_A
+#EXTINF:-1,tvg-logo="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/395061884_1066399571195248_525792923388814978_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-RKZwrmrtbUAX-vI_hl&_nc_ht=scontent.fjog3-1.fna&oh=00_AfDy5QMVbcklPlMdcytTomfiE_Qr1H1CXpaffyOi9Gr5yg&oe=653B8E11" group-title="CHANNEL OLAHRAGA #2",Sky_Sport_Serie_A
 http://server.sibfungold.info:8080/tverdnic2006/5KdVRcHHrH/54776
+
 
 
 ###########################  OLAHRAGA  ####################################
