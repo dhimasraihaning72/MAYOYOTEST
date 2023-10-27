@@ -29,14 +29,28 @@ https://ctrl.laotv.la/live/Bsport2/index.m3u8
 ############################################################################
 
 #EXTM3U
-#EXTINF:-1 tvg-ID="examplechanel1.com" tvg-name="chanel1" tvg-logo="http://ch.xyz/logo1.png" group-title="USA HD",CHANEL1-HD
-http://iptvch.com:2082/charwakifra301/66949212/80222?username=charwakifra301&password=66949212
-#EXTINF:-1 tvg-ID="examplechanel2.com" tvg-name="chanel2" tvg-logo="http://ch.xyz/logo2.png" group-title="USA HD",CHANEL2-HD
-http://iptvch.com:2082/charwakifra301/66949212/241166?username=charwakifra301&password=66949212
-#EXTINF:-1 tvg-ID="examplechanel3.com" tvg-name="chanel3" tvg-logo="http://ch.xyz/logo3.png" group-title="USA HD",CHANEL3-HD
-http://iptvch.com:2082/charwakifra301/66949212/241155?username=charwakifra301&password=66949212
-#EXTINF:-1 tvg-ID="examplechanel4.com" tvg-name="chanel4" tvg-logo="http://ch.xyz/logo4.png" group-title="USA HD",CHANEL4-HD
-http://iptvch.com:2082/charwakifra301/66949212/239260?username=charwakifra301&password=66949212
+#EXTINF:-1,group-title="XTREAM" VIP beIN SPORTS NEWS SD
+http://iptvch.com:2082/charwakifra301/66949212/243349
+#EXTINF:-1,group-title="XTREAM"VIP beIN SPORTS GLOBAL SD
+http://iptvch.com:2082/charwakifra301/66949212/243350
+#EXTINF:-1,group-title="XTREAM"VIP beIN SPORTS 1 SD
+http://iptvch.com:2082/charwakifra301/66949212/243351
+#EXTINF:-1,group-title="XTREAM"VIP beIN SPORTS 1 HD
+http://iptvch.com:2082/charwakifra301/66949212/243368
+#EXTINF:-1,group-title="XTREAM"VIP beIN SPORTS 1 HEVC
+http://iptvch.com:2082/charwakifra301/66949212/243386
+#EXTINF:-1,group-title="XTREAM"VIP beIN SPORTS 1 ULTRA 4K
+http://iptvch.com:2082/charwakifra301/66949212/243403
+#EXTINF:-1,group-title="XTREAM"VIP beIN SPORTS 2 SD
+http://iptvch.com:2082/charwakifra301/66949212/243352
+#EXTINF:-1,group-title="XTREAM"VIP beIN SPORTS 2 HD
+http://iptvch.com:2082/charwakifra301/66949212/243369
+#EXTINF:-1,group-title="XTREAM"VIP beIN SPORTS 2 HEVC
+http://iptvch.com:2082/charwakifra301/66949212/243387
+#EXTINF:-1,group-title="XTREAM"VIP beIN SPORTS 2 ULTRA 4K
+http://iptvch.com:2082/charwakifra301/66949212/243404
+#EXTINF:-1,group-title="XTREAM"VIP beIN SPORTS 3 SD
+http://iptvch.com:2082/charwakifra301/66949212/243353
 
 
 ###########################  LIGA INGGRIS  ####################################
