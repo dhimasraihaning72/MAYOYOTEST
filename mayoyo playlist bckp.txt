@@ -32,7 +32,7 @@ Host/ip:http://1.revportal.eu/get.php?username=SPIDER_mpXxio&password=JUMusgQUzE
 User:SPIDER_mpXxio
 Password:JUMusgQUzE
 url:
-http:http://1.revportal.eu/get.php?username=SPIDER_mpXxio&password=JUMusgQUzE&type=m3u&output=ts
+http://1.revportal.eu/get.php?username=SPIDER_mpXxio&password=JUMusgQUzE&type=m3u&output=ts
 
 
 ###########################  LIGA INGGRIS  ####################################
