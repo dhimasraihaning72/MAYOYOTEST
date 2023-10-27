@@ -25,6 +25,15 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
+###########################  XTREAM TV ####################################
+############################################################################
+
+Host/ip:http://1.revportal.eu/get.php?username=SPIDER_mpXxio&password=JUMusgQUzE&type=m3u&output=ts
+User:SPIDER_mpXxio
+Password:JUMusgQUzE
+url:
+http:http://1.revportal.eu/get.php?username=SPIDER_mpXxio&password=JUMusgQUzE&type=m3u&output=ts
+
 
 ###########################  LIGA INGGRIS  ####################################
 ############################################################################
