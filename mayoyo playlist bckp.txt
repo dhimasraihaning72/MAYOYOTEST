@@ -317,6 +317,8 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extens
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=a0dyarOiLA
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 6
 http://193.233.206.48:8090/live/rx4/2528/dad7939b9be2d14abf07698a7f6d5d4e/index.m3u8
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 7
+https://live-ak2.vimeocdn.com/e1e94d0d-8768-48c2-a25a-f41a8fb0feb4/hdntl=exp=1698555648~acl=%2f*~data=hdntl~hmac=de90e34d29301a7fb30c033f6992a3a4421271e45d1fc02fa1fcd25882292ab6/chunklist_b416000.m3u8
 
 
 
