@@ -318,8 +318,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extens
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 6
 http://193.233.206.48:8090/live/rx4/2528/dad7939b9be2d14abf07698a7f6d5d4e/index.m3u8
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 7
-#EXTVLCOPT:http-referrer=https://www.nontongp.lol/
-https://live-ak2.vimeocdn.com/e1e94d0d-8768-48c2-a25a-f41a8fb0feb4/hdntl=exp=1698557536~acl=%2f*~data=hdntl~hmac=e020660b4efed54786b9b749cccf8ff9ebfee3aabade0d355316ca0681a8ab00/chunklist_b6256000.m3u8
+https://s5.strea.ru/index_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 8
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
