@@ -1308,13 +1308,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 #EXTINF:-1 tvg-id="FightSports" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="MNC CHANNEL",FIGHT SPORTS
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="MNC CHANNEL", SPORTSTARS S1
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157558
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="MNC CHANNEL", SPORTSTARS S2
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157558
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="MNC CHANNEL", SPORTSTARS S3
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157558
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="MNC CHANNEL",SPOTV
 http://kuchini.site:8080/F30140/f3de2280/298570
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="MNC CHANNEL",SPOTV2
