@@ -379,12 +379,12 @@ https://webudit.cdnhks.lol/lb/premium620/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium621/index.m3u8
 
-EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5lr9ga1637159235.png" group-title="2. SPORTS" ,ON Time Sports
+EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5lr9ga1637159235.png" group-title="OLAHRAGA" ,ON Time Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium611/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5lr9ga1637159235.png" group-title="2. SPORTS" ,ON Time Sports 2
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5lr9ga1637159235.png" group-title="OLAHRAGA" ,ON Time Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium612/index.m3u8
