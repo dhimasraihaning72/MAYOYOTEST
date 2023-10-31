@@ -2,29 +2,7 @@
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
 
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
-#EXTINF:-1 tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
-#EXTINF:-1 tvg-url="https://i.mjh.nz/au/all/epg.xml"
-#EXTINF:-1 tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/chile.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indiapremium2.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
-#EXTINF:-1 tvg-url="https://egp.it999.ru/epg.xml.gz"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
-#EXTINF:-1 tvg-url="://www.bevy.be/bevyfiles/indonesiapremium4.xml
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/italy.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/italypremium.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/romania.xml,https://www.bevy.be/bevyfiles/romaniapremium.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/russiapremium1.xml,https://www.bevy.be/bevyfiles/serbia.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/sweden.xml,https://www.bevy.be/bevyfiles/spain.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/georgia.xml"
+
 #EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
@@ -38,8 +16,109 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=10324
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/ardanepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/mariepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/masimaepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/traxepg.xml,  https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone-pt.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_GB.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml, https://bit.ly/3itZsSm, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz, https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/USA/tv.com.channels.xml, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" refresh="3600"
 
-###########################  SPESIAL ####################################
+###########################  BEIN SPORT CHANNEL ####################################
 ############################################################################
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="BEIN SPORT CHANNEL", BEIN SPORT
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683139&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="BEIN SPORT CHANNEL", BEIN SPORT 2
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683138&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS
+http://smartsistem.xyz:8080/oguzozkan/6726159823/12
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 FULL HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/5395
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 QHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/5396
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 SD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 MOBIL
+http://smartsistem.xyz:8080/oguzozkan/6726159823/11
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 480p
+http://smartsistem.xyz:8080/oguzozkan/6726159823/26
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/psl5ml0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 4K
+http://smartsistem.xyz:8080/oguzozkan/6726159823/7
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 2 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/14
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 2 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/15
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 2 SD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/16
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 3 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/17
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 3 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/18
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 3 SD 
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9237
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 4 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/19
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 4 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9238
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="BEIN SPORT CHANNEL", beIN SPORTS 5 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/69216
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="BEIN SPORT CHANNEL", beIN SPORTS 5 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/69215
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 1 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/20
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 1 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9233
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 1 Yedek
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9234
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 2 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/21
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 2 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9235
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 2
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9236
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS HABER FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/22
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS HABER HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/22358
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -1
+http://smartsistem.xyz:8080/oguzozkan/6726159823/30561
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -2
+http://smartsistem.xyz:8080/oguzozkan/6726159823/30562
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -3
+http://smartsistem.xyz:8080/oguzozkan/6726159823/30563
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -4
+http://smartsistem.xyz:8080/oguzozkan/6726159823/30564
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -5
+http://smartsistem.xyz:8080/oguzozkan/6726159823/30565
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -6
+http://smartsistem.xyz:8080/oguzozkan/6726159823/30566
+
 
 ###########################  LIGA INGGRIS  ####################################
 ############################################################################
