@@ -40,173 +40,83 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=10324
 
 ###########################  BEIN SPORT ####################################
 ############################################################################
-#EXTINF:-1 group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",BEIN SPORTS 1 DZN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS
+http://smartsistem.xyz:8080/oguzozkan/6726159823/12
 
-#EXTINF:-1 group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",BEIN SPORTS 2 DZN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 FULL HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/5395
 
-#EXTINF:-1 group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",BEIN SPORTS 3 DZN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/8
 
-#EXTINF:-1 tvg-id="beINSports1.qa" group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium91/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 QHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/5396
 
-#EXTINF:-1 tvg-id="beINSports2.qa" group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium92/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 SD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9
 
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium93/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 MOBIL
+http://smartsistem.xyz:8080/oguzozkan/6726159823/11
 
-#EXTINF:-1 tvg-id="beINSports4.qa" group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium94/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 480p
+http://smartsistem.xyz:8080/oguzozkan/6726159823/26
 
-#EXTINF:-1 tvg-id="beINSports4.mx" group-title="BEIN SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",beIN Sports Max 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium494/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/psl5ml0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 4K
+http://smartsistem.xyz:8080/oguzozkan/6726159823/7
 
-#EXTINF:-1 tvg-id="beINSports5.qa" group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU",beIN Sports 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium95/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 2 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/14
 
-#EXTINF:-1 tvg-id="beINSports4.mx" group-title="BEIN SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",beIN Sports Max 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium495/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 2 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/15
 
-#EXTINF:-1 tvg-id="beINSports6.qa" group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium96/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 2 SD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/16
 
-#EXTINF:-1 tvg-id="beINSports4.mx" group-title="BEIN SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",beIN Sports Max 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium496/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 3 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/17
 
-#EXTINF:-1 tvg-id="beINSports7.qa" group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium97/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 3 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/18
 
-#EXTINF:-1 tvg-id="beINSports4.mx" group-title="BEIN SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",beIN Sports Max 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium497/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 3 SD 
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9237
 
-#EXTINF:-1 tvg-id="beINSports4.mx" group-title="BEIN SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",beIN Sports Max 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium498/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 4 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/19
 
-#EXTINF:-1 tvg-id="beINSports4.mx" group-title="BEIN SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",beIN Sports Max 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium499/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 4 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9238
 
-#EXTINF:-1 tvg-id="beINSports4.mx" group-title="BEIN SPORT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",beIN Sports Max 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium500/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="BEIN SPORT CHANNEL", beIN SPORTS 5 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/69216
 
-#EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports Premium 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium98/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="BEIN SPORT CHANNEL", beIN SPORTS 5 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/69215
 
-#EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports Premium 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium99/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 1 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/20
 
-#EXTINF:-1 tvg-id="beINSportsPremium3.qa" group-title="BEIN SPORT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" ,beIN Sports Premium 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium100/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 1 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9233
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="BEIN SPORT CHANNEL",beIN Sports 1 English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium61/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 1 Yedek
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9234
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="BEIN SPORT CHANNEL",beIN Sports 2 English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium90/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 2 FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/21
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="BEIN SPORT CHANNEL",beIN Sports 3 English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium46/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 2 HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9235
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="BEIN SPORT CHANNEL",beIN Sports 1 Turkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium62/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 2
+http://smartsistem.xyz:8080/oguzozkan/6726159823/9236
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="BEIN SPORT CHANNEL",beIN Sports 2 Turkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium63/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS HABER FHD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/22
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="BEIN SPORT CHANNEL",beIN Sports 3 Turkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium64/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="BEIN SPORT CHANNEL",beIN Sports 4 Turkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium65/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="BEIN SPORT CHANNEL",beIN Sports 1 France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium116/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="BEIN SPORT CHANNEL",beIN Sports 2 France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium117/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU" group-title="BEIN SPORT CHANNEL",beIN Sports 3 France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium118/index.m3u8
-
-#EXTINF:1 tvg-id="beINSports1Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="BEIN SPORT CHANNEL", beIN Sports TH 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:1 tvg-id="beINSports2Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="BEIN SPORT CHANNEL", beIN Sports TH 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="beINSports3Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="BEIN SPORT CHANNEL",beIN Sports TH 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS HABER HD
+http://smartsistem.xyz:8080/oguzozkan/6726159823/22358
 
 
 ###########################  LIGA INGGRIS  ####################################
