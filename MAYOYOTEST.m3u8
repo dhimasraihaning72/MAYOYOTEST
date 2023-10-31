@@ -38,247 +38,32 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=10324
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/ardanepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/mariepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/masimaepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/traxepg.xml,  https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone-pt.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_GB.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml, https://bit.ly/3itZsSm, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz, https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/USA/tv.com.channels.xml, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" refresh="3600"
 
-###########################  BEIN SPORT ####################################
+###########################  SPESIAL ####################################
 ############################################################################
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336672
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 1 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336673
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 2 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 2 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435939
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 3 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 3 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435940
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 4 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 4 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435941
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 5 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 5 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435942
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4K 1" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN SPORTS 4K 1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336674
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4K 2" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN SPORTS 4K 2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336675
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4K 4" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN SPORTS 4K 4
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336676
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4K 1" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN SPORTS 4K 1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336677
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4K 5" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN SPORTS 4K 5
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336678
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4K 6" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN SPORTS 4K 6
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336679
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4K 7" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN SPORTS 4K 7
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336680
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4K 8" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN SPORTS 4K 8
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336681
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 4K 9" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN SPORTS 4K 9
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336682
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Xtra 4K 3" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN Xtra 4K 3
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336683
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Xtra 4K 1" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Xtra 4K 1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336684
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Xtra 4K 2" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Xtra 4K 2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336685
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport English 4k 1" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN Sport English 4k 1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336686
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport French 4k 1" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN Sport French 4k 1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336689
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport French 4k 2" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN Sport French 4k 2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336690
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport NBA 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport NBA 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336692
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 1" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN MOVIES 4K 1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336693
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 2" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN MOVIES 4K 2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336694
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 3" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN MOVIES 4K 3
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336695
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 4" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN MOVIES 4K 4
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336696
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SERIES 4K 1" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN SERIES 4K 1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336697
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SERIES 4K 2" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN SERIES 4K 2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336698
-#EXTINF:-1 tvg-ID="" tvg-name="beIN DRAMA 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",beIN DRAMA 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336699
-#EXTINF:-1 tvg-ID="" tvg-name="Bein FOX MOVIES 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein FOX MOVIES 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336700
-#EXTINF:-1 tvg-ID="" tvg-name="Bein FOX MOV ACTION 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein FOX MOV ACTION 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336701
-#EXTINF:-1 tvg-ID="" tvg-name="Bein FOX LIFE 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein FOX LIFE 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336702
-#EXTINF:-1 tvg-ID="" tvg-name="Bein BBC EARTH 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein BBC EARTH 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336703
-#EXTINF:-1 tvg-ID="" tvg-name="Bein GORMENT 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein GORMENT 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336704
-#EXTINF:-1 tvg-ID="" tvg-name="Bein FATAFEAT 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein FATAFEAT 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336705
-#EXTINF:-1 tvg-ID="" tvg-name="Bein BARAEAM 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein BARAEAM 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336706
-#EXTINF:-1 tvg-ID="" tvg-name="Bein JEEM 4K" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein JEEM 4K
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336707
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Global HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Global HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336708
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport News HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport News HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336709
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD1 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports HD1 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336710
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD2 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports HD2 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336711
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD3 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports HD3 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336712
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD4 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports HD4 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336713
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD5 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports HD5 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336714
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD6 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports HD6 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336715
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD7 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports HD7 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336716
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD8 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports HD8 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336717
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports HD9 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports HD9 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336718
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Xtra HD3 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Xtra HD3 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336719
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports English HD1 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports English HD1 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336720
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports English HD2 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports English HD2 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336721
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports French HD1 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports French HD1 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336723
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports French HD2 1080" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sports French HD2 1080
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336724
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336726
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 1 HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 1 HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336727
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 2 HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 2 HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435943
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 3 HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 3 HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435944
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 4 HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 4 HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435945
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 5 HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 5 HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435946
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium1 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport Premium1 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336728
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium2 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport Premium2 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336729
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium3 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport Premium3 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336730
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport HD1 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport HD1 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336731
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport HD2 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport HD2 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336732
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport HD3 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport HD3 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336733
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport HD4 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport HD4 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336734
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport HD5 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport HD5 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336735
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport HD6 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport HD6 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336736
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport HD7 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport HD7 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336737
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport English HD1 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport English HD1 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336738
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport English HD2 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport English HD2 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336739
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport French HD1 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport French HD1 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336741
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport French HD2 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport French HD2 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336742
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport NBA HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport NBA HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336744
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Xtra HD1 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Xtra HD1 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336745
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Xtra HD2 720" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Xtra HD2 720
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336746
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Movies HD1" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Movies HD1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336747
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Movies HD2" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Movies HD2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336748
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Movies HD3" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Movies HD3
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336749
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Movies HD4" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Movies HD4
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336750
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Series HD1" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Series HD1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336751
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Series HD2" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Series HD2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336752
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Drama HD1" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Drama HD1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336753
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Fox Movies HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Fox Movies HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336754
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Fox Action Movies HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Fox Action Movies HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336755
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Fox Life HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Fox Life HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336756
-#EXTINF:-1 tvg-ID="" tvg-name="Bein jeem HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein jeem HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336757
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Baraem HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Baraem HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336758
-#EXTINF:-1 tvg-ID="" tvg-name="Bein BBC Earth HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein BBC Earth HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336759
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Fatafeat" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Fatafeat
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336760
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Gourmet HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Gourmet HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336761
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Nat Geo HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Nat Geo HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336762
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Nat geo Wild HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Nat geo Wild HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336763
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC SD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC SD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336764
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 1 SD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 1 SD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336765
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 2 SD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 2 SD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435947
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 3 SD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 3 SD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435948
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 4 SD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 4 SD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435949
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC 5 SD" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport AFC 5 SD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/435950
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Xtra SD1" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Xtra SD1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336766
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Xtra SD2" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Xtra SD2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336767
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium SD1" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport Premium SD1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336768
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium SD2" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport Premium SD2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336769
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium SD3" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport Premium SD3
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336770
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD1" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport SD1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336771
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD2" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport SD2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336772
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD3" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport SD3
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336773
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD4" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport SD4
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336774
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD5" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport SD5
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336775
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD6" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport SD6
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336776
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport SD7" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport SD7
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336777
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport English SD1" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport English SD1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336778
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport English SD2" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport English SD2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336779
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport French SD1" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport French SD1
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336781
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport French SD2" tvg-logo="" group-title="BEIN SPORT CHANNEL",Bein Sport French SD2
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336782
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Alkass 1 HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",BeIN Alkass 1 HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336784
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Alkass 2 HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",BeIN Alkass 2 HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336785
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Alkass 3 HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",BeIN Alkass 3 HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336786
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Alkass 4 HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",BeIN Alkass 4 HD
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336787
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Alkass 5 HD" tvg-logo="" group-title="BEIN SPORT CHANNEL",BeIN Alkass 5 HD
+
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://i.mjh.nz/au/all/epg.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/chile.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/indiapremium2.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://egp.it999.ru/epg.xml.gz"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="://www.bevy.be/bevyfiles/indonesiapremium4.xml
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/italy.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/italypremium.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/romania.xml,https://www.bevy.be/bevyfiles/romaniapremium.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/russiapremium1.xml,https://www.bevy.be/bevyfiles/serbia.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/sweden.xml,https://www.bevy.be/bevyfiles/spain.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"
+#EXTINF:-1 group-title="SPESIAL MAYOYO"  group-title="SPESIAL MAYOYO" tvg-url="https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/georgia.xml"
 
 
 ###########################  LIGA INGGRIS  ####################################
