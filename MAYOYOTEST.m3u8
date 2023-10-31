@@ -1167,6 +1167,1017 @@ https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-referrer=http://klik.tvri.go.id/
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
+###########################  CHANNEL OLAHRAGA #3  ####################################
+############################################################################
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TRUE SPORT", TRUE SPORT 1 PREMIER 
+https://m1.ballnaja.com/live/True_Premier_Football_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TRUE SPORT", TRUE SPORT 2 PREMIER 
+https://m1.ballnaja.com/live/True_Premier_Football_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TRUE SPORT", TRUE SPORT 3 PREMIER 
+https://m1.ballnaja.com/live/True_Premier_Football_3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TRUE SPORT", TRUE SPORT 4 PREMIER 
+https://m1.ballnaja.com/live/True_Premier_Football_4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/max-sport-1-bg.png" group-title="CHANNEL OLAHRAGA #3", MAX SPORT 1 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12540
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", MAX SPORT 2 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12986
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 1 Premium HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12342
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 2 Premium HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12343
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 3 Premium HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12344
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 1 Premium
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12362
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 2 Premium
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12363
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 3 Premium
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12392
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 1 Premium BIH
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13011
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 2 Premium BIH
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13012
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 3 Premium BIH
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13013
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 1 BIH
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12166
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 2 BIH
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13002
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 3 BIH
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13003
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 4 BIH
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13004
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 5 BIH
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13005
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 6 BIH
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13006
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 1 HD BIH
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/6776
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 1 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/490
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 2 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12051
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 3 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12050
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 4 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12049
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 5 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/491
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 6 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13068
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 7 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13069
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 8 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13070
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 9 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13071
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 10 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13072
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 1 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/486
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 2 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/485
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 3 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12052
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 4 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12053
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 5 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/482
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 6 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/481
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 7 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12106
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 8 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12107
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 9 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12108
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 10 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12109
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_1x2_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 1x2
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12533
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/Arena_Fight_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Fight
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12554
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena_esport_logo.png" group-title="CHANNEL OLAHRAGA #3", Arena Esport
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12555
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 1
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/495
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 2
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12045
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 3
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12046
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="CHANNEL OLAHRAGA #3", Arena Sport 4
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12047
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK_HD_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9301
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 1 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12037
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 2 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12038
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 3 HD SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12039
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 4 SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12040
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 5 SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9293
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 6 SRB
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12001
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 1 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12041
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 2 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12042
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 3 HD HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12043
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 4 HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12044
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 5 HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9299
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 6 HR
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9300
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 7
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12239
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 8
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12236
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 9
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12237
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK10_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 10
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12238
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/sk-4k.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub 4K
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12569
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK_Golf_HR_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub Golf
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9303
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/SK_esports_RS_logo.png" group-title="CHANNEL OLAHRAGA #3", Sport Klub Esport
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9302
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sport Klub Fight
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12770
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/nova_sport.png" group-title="CHANNEL OLAHRAGA #3", Nova Sport HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9288
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/kuvo.png" group-title="CHANNEL OLAHRAGA #3", Kuvo TV HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12514
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/eurosport.png" group-title="CHANNEL OLAHRAGA #3", EUROSPORT 1 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/6540
+
+#EXTINF:-1 tvg-logo="http://nova-iptv.com/logo/eurosport-2.png" group-title="CHANNEL OLAHRAGA #3", EUROSPORT 2 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/467
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/GP1-logo.png" group-title="CHANNEL OLAHRAGA #3", GP 1 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12589
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", FIGHT CHANNEL HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9277
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Fight Box HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/5509
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Extreme Sports
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/10478
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", SOS
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/438
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Partizan TV HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/5508
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Zvezda TV
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/8302
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sportska TV
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/439
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Moja TV Premier Liga BiH
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/480
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", HNTV
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/464
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Kreator TV
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/463
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Lov i Ribolov
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9304
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport 1 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12055
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport 2 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12056
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport 3 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12057
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport 4 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12058
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport 5 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12059
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport 6 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12060
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport 7 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12061
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport 8 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12062
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport 9 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12063
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport 10 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12064
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Bundesliga 1 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12065
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Bundesliga 2 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12066
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Bundesliga 3 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12067
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Bundesliga 4 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12068
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Bundesliga 5 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12069
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Bundesliga 6 HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12070
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", SKY Sport News HD (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12054
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport Premier DE
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13027
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport Austria 1
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12075
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport Austria 2
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13028
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport Austria 3
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13029
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport Austria 4
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13030
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport Austria 5
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13031
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport Austira 6
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13032
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport F1 (DE)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12078
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport F1 (ENG)
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12251
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport Tenis
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13052
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sky Sport Golf
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/13053
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", BT Sport 1 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12071
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", BT Sport 2 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12072
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", BT Sport 3 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12073
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", SPORT TV 1 HD SLO
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/12074
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", SPORT TV 2 HD SLO
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/214
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", SPORT TV 3 HD SLO
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/213
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", ELEVEN SP 1 FHD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/5764
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", ELEVEN SP 2 FHD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/5765
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", ELEVEN SP 3 FHD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/5766
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", EUROSPORT 1 DE
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/6296
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", EUROSPORT 2 DE
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/6297
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Bayern TV HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/6103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sport Digital HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/461
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Motorvision HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/327
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Auto Motor Sport
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", NBA TV
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/466
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Sport1 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/440
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", FOX Sports 1
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/471
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", FOX Sports 2
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/470
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Bein Sports 1
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9255
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Bein Sports 2
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9256
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Bein Sports 3
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9257
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Bein Sports 4
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9258
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Bein Sports 5
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9259
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Bein Sports 6
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9260
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Bein Sports 7
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9261
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Bein Sports 8
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9262
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Bein Sports 9
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9263
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Bein Sports 10
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9264
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", DOBRA SPORTSKA
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/8594
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", ORF Sport+ HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/6740
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AT: Sport 1+ HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9399
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AT: ORF Sport+ HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9404
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", SWISS: TELECLUB SPORT 1
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/6828
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", IT: Rai Sport 2
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9958
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", IT: Rai Sport 1
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9984
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", PL: Eleven Sports 1 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/7532
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", PL: Polsat Sport Extra HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/7541
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", PL: Polsat Sport HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/7542
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", PL: Canal+ Sport FHD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/7543
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", BG: EuroSport 2
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/8400
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", BG: MAX Sport 1 FHD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/8424
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", BG: MAX Sport 2 FHD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/8425
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", BG: Eurosport 1
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/8426
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Art Sport 3 FHD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9612
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Art Sport 2 FHD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9613
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Art Sport 1 FHD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9614
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Kujtesa Sport 5
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9631
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Super Sport 6 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9701
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Super Sport 5 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9703
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Super Sport 4 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9705
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Super Sport 3 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9707
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Super Sport 2 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9709
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Super Sport 1 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9710
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Tring Sport 3 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9738
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Tring Sport 2 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9740
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Tring Sport 1 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9742
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Kujtesa Sport 1
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9938
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Kujtesa Sport 2
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9939
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Kujtesa Sport 3
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9940
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AL: Kujtesa Sport 4
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9941
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", SE: Viasat Sport Premium
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/3712
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", [DK] TV3 SPORT 2 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/3677
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", [DK] TV3 SPORT 1 HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/3684
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", [DK] EUROSPORT 1
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/3679
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", [DK] EUROSPORT 2
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/3678
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", [DK] TV 2 SPORT HD
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/3757
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA: NBC SPORTS
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9493
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA: ESPN U
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9495
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA: ESPN 2
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9498
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA: ESPN 1
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9501
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA: FOX SPORTS 2
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9502
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA: FOX SPORTS 1
+http://tv.nova-iptv.com:80/Kresimir_Eldic/NCZqGey1y9/9504
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - Espn News HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57189
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - Fox College Sports Pacific
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57221
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Deportes HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57388
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - NBC Sports Philadelphia
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57465
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - NBC Sports Washington
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57464
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Sports Wisconsin
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57456
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Sports Indiana
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57488
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Sports Indiana Plus
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57489
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Sports Kansas City Plus
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57493
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - Fox Sportime Ohio
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57498
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - Espn Collage Extra
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57506
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - Fox Sports South
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65895
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS ARIZONA | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66040
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS NORTH CAROLINA | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66041
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS FLORIDA | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS HOUSTON | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66045
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS PRIME TICKET | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66051
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS SOUTHWEST PLUS | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66054
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS SPORTSTIME OHIO | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66056
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS SAN DIEGO | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66057
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS SUN | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66058
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS WEST | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66059
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS OKLAHOMA | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66065
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX SOCCER SUN HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58508
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - SPORTSNET PACIFIC
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58607
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Soccer Plus HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58613
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - Fox Altanta
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65688
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - Fox Sports West
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65697
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - Fubo Sports Network
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65712
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - CBS Eleven Sports Network
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65734
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Green Bay
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65779
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Indianapolis
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65782
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX LOS ANGELES CA KTTV
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65785
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Milwaukee
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65787
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Nashville
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65789
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX New York
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65791
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Ocala
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65792
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Philadelphia
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65794
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Phoenix
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65795
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Pittsburgh
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65796
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Salt Lake City
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65798
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - Sportsman Channel
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/66021
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - BEIN SPORTS US
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58476
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - ESPN
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58499
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - ESPN 2 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58500
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - ESPN NEWS
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58502
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS ONE
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58509
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS TWO HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58510
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - SPORTSNET WORLD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58609
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - SPORTSNET WEST
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58608
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - SPORTSNET ONTARIO
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58606
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - SPORTSNET ONE
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58605
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - SPORTSNET EAST
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58604
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - SPORTSNET 360
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58603
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX SPORTS Detroit
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/58579
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - Eleven Sport
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/59840
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - ESPN 2
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57222
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - ESPN U
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57228
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX BUSINESS NETWORK
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57230
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - Fox Sports Arizona
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - Fox Sports Detroit
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57448
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports North
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57449
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports Ohio
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57450
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports South
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57453
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports Sun
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57454
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports West
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports Prime Ticket
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57482
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports Southeast
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57483
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports Southwest
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57484
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports Florida
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57485
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports Tennessee
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57487
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports Oklahoma
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57496
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - Bein Sports English
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65664
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - Ginxsports
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65718
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA -  FOX Atlanta
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65767
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Austin
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65768
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA -  FOX Baltimore
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65769
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Belmont
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65770
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Boston
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65771
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Buffalo
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65772
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Chicago
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65773
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Cleveland
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65774
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Dallas
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65775
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA -  FOX Columbus
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65776
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Denver
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65777
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Detroit
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65778
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Houston
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65781
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Jacksonville
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65783
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Kansas City
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65784
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Miami
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65786
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Minneapolis
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65788
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX New Orleans
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65790
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Orlando
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65793
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sacramento
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65797
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX San Antonio
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65799
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX San Diego
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65800
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX San Francisco
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65801
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Seattle
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65802
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX St Louis
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65803
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Tampa
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65804
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Washington
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/65805
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - CBS Sports Network
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57209
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - Fox News Channel
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57383
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - Fox Soccer Plus
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57443
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - FOX Sports San Diego
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57452
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - NBC Sports Boston
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57466
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - NBC Sports NorthWest
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57467
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - NBC Sports California
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57469
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - Fox Life HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57476
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", USA - NBC Sports Chicago
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57486
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", EPL - SuperSport Maximo
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/59829
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", NHL 02 | ESPN
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68448
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", CA - Fox  HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/61105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", CA - FR:TVA SPORTS
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/61165
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Now Premier Sports 1
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69854
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Now Premier Sports 2
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69855
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Now Premier Sports 3
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69856
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Now Premier Sports 4
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69857
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Now Premier Sports 5
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69858
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Now Premier Sports 6
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69859
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Now Premier Sports 7
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69860
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", Now Premier Sports 8
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69861
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AF - Supersport Blitz
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/60940
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AF - SuperSport Play | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68948
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AF - SuperSport Cricket | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68949
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AF - SuperSport Grandstand | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68950
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AF - SuperSport PSL | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68951
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AF - SuperSport Premier League | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68952
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AF - SuperSport La Liga | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68953
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AF - SuperSport Football | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68954
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AF - SuperSport Action | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68955
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", AF - SuperSport Rugby | HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/68956
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", flowsports 3
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73117
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", flowsports 4
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73118
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", flowsports 5
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73119
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", flowsports 6
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73120
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", flowsports 7
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73121
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", flowsports 8
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73122
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", flowsports 9
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", flowsports 10
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73124
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", NZ - Sky Sport 1 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73125
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", US - FOX Deportes HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/57388
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", NZ - Sky Sport 3 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73127
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", NZ - Sky Sport 4 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", NZ - Sky Sport 5 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73129
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", NZ - Sky Sport 6 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73130
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", NZ - Sky Sport 7 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73131
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", NZ - Sky Sport 8 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73132
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHANNEL OLAHRAGA #3", NZ - Sky Sport 9 HD
+http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73133
+
+
 ########################### MNC CHANNEL  ####################################
 ############################################################################
 
@@ -1480,168 +2491,93 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692438&extens
 ##############################################################################################################################################
 ############### TV Nasional #######################################
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV *
-http://kuchini.site:8080/F30140/f3de2280/157578
-##https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV HD
-http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-##http://tvkuonline.my.id:25461/riyad/riyad/11
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INews
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV HD*
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_149952=6-mp4a_96000=2.m3u8
-##https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
-##http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI *
-http://kuchini.site:8080/F30140/f3de2280/157591
-##https://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-##http://103.84.206.91:8989/4006/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD
-http://tvkuonline.my.id:25461/riyad/riyad/8
-##http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD
-http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
-##http://iptvtree.net:8080/live/joeBt/FBe7D5gDbFzmWdAx/157591.m3u8
-#EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png" group-title="NASIONAL",TVONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png" group-title="NASIONAL",TVONE *
-https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="NASIONAL",TVRI SPORT HD
-http://210.210.155.37/qwr9ew/s/s107/index.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/K0vmtrP/cat-nasional.png",
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="tvri nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU" group-title="NASIONAL",TVRI
-http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://i.ibb.co/yXhzXYz/ANTV.png" group-title="NASIONAL", ANTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI 1
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.ibb.co/VqdsmGx/BERITASATUTV.png" group-title="NASIONAL", BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI 2
-http://tvkuonline.my.id:25461/riyad/riyad/24
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI 3*
-http://tvnid.x10.mx/vidio/master-2.m3u8
-##https://github.com/thefirefox12537/streams/raw/master/moji_2.m3u8
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/NF5nv32/CNBCINDO.png" group-title="NASIONAL", CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="NASIONAL",SCTV 
-https://github.com/thefirefox12537/streams/raw/master/esceteve_2.m3u8
-##http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/tC8zh3w/CNNINDO.png" group-title="NASIONAL", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="NASIONAL",SCTV HD*
-http://tvnid.x10.mx/vidio/master-1.m3u8
-##http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.ibb.co/y8ttk8r/GTV.png" group-title="NASIONAL", GTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR*
-http://tvnid.x10.mx/vidio/master.m3u8
-##http://tvkuonline.my.id:25461/riyad/riyad/14
-##http://kuchini.site:8080/live/LeCyGodF/thYAg86ShLywX9FL/162138.m3u8
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/TrzzTfg/INDOSIAR.png" group-title="NASIONAL", INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/TrzzTfg/INDOSIAR.png" group-title="NASIONAL", INDOSIAR HD
+https://apex.biz.id/play/0ilmhZodH2Kc6NwNilEOdR9KjWJvMcLFidDw1qDk3VQ/m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR HD
-http://iptvtree.net:8080/137f5990/123a71f365/162138
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="trans tv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="NASIONAL",TRANS TV HD
-http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://i.ibb.co/sJsThk3/INEWS.png" group-title="NASIONAL", INEWS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+**https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS 7
-https://github.com/thefirefox12537/streams/raw/master/transpitu_playback.m3u8
-##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/VD6xxtF/KOMPASTV.png" group-title="NASIONAL", KOMPAS TV
+https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS 7 HD
-http://tvkuonline.my.id:25461/riyad/riyad/15
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="NASIONAL",ANTV HD
-http://210.210.155.37/qwr9ew/s/s07/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="NASIONAL",Dunia Lain
-http://xtv.ooo:8080/88876776555/87677666654/350938
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fChjylx.png" group-title="NASIONAL",NET. HD
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="NASIONAL",RTV
-http://210.210.155.37/dr9445/h/h10/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="NASIONAL",Mentari TV*
-http://tvnid.x10.mx/vidio/master-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="NASIONAL",VTV HD
-https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHtfttwM/vtv.png" group-title="NASIONAL",VTV ID
-https://kametv.my.id/putar/vivatv.php
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmMjX8Xc/20230518-221612.png" group-title="NASIONAL",Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="NASIONAL",MNC News
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165058
-
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="kompas tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="NASIONAL",Kompas TV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15" group-title="NASIONAL",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NASIONAL",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyJqNWJL/20230518-221003.png" group-title="NASIONAL" ,Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3XG1FXh/20230518-221343.png" group-title="NASIONAL" ,Magna Channel
+#EXTINF:-1 tvg-id="" tvg-name="MAGNA TV" tvg-logo="https://i.ibb.co/JpcQDkW/MAGNA.png" group-title="NASIONAL", MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
------ MEDIACROP ASIAN GAMES -----
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE EVENT
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/DgyRR2X/METROTV.png" group-title="NASIONAL", METRO TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-ASIAN GAMES CHINA
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 1
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation51/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3a327c3769e750894bb30b35ffb63a63
+#EXTINF:-1 tvg-id="MNC" tvg-name="MNC" tvg-logo="https://i.ibb.co/g95BZ1h/MNCTV.png" group-title="NASIONAL", MNC TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 2
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation52/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=72686708b502d3b8d8d091c5a2132803
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.ibb.co/drnFWch/NET.png" group-title="NASIONAL", NET.
+http://210.210.155.37/uq2663/h/h06/index.m3u8
 
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 3
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation53/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e60a656af7c0bf1ad9286d81223cd5bc
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.ibb.co/xz3VQVj/NUSANTARA.png" group-title="NASIONAL", NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 4
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation54/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=311c48c3e59c036d1b9d95b3d9f3f64d
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.ibb.co/hdm3RBb/RCTI.png" group-title="NASIONAL", RCTI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 5
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation55/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cacf7e0730769dac2d88d81415423906
+#EXTINF:-1 tvg-id="RTV" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co/dLF9SvX/RTV.png" group-title="NASIONAL", RTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 6
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation56/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=548904ffa18533be1cb78c980c3b2614
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/D4FByfk/SCTV.png" group-title="NASIONAL", SCTV
+**http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 7
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation57/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ab76e86390524f8c4d407eb7e514c521
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/SvFg1Hg/TRANSTV.png" group-title="NASIONAL", TRANS TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
 
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 8
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation58/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4a74fe07dad1ef91ba93fcf7fbb71ade
-
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 9
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation59/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8a76d4326f9420750a5d742fdbe7243f
-
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 10
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation60/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=058c7b1273a21f0f86db490151255c9a
-
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 11
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation61/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f386db9586e3db7469848c7fb6f97177
-
-
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 12
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation62/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=db75ce9c7660e44e272d22f707c34a0f
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/b2nP8VK/T7.png" group-title="NASIONAL", TRANS 7
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
 
 
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 13
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation63/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9ffe2e7050483968cb68d610a632bf42
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="https://i.ibb.co/Tmw4CVw/TVONE.png" group-title="NASIONAL", TV ONE
+https://ythls.onrender.com/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/8jFmx2k/TVRI.png" group-title="NASIONAL", TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 14
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation64/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=016871adcfbddf12decd54c15c340973
-
-#EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE 15
-https://lr1.aikan.miguvideo.com/migu/sports/20230301/pcstation65/51/01.m3u8?=&mtv_session=0&m=1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5c5546d63b17fb2bd9bbac904d9dd0b5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QmrPWjn/UGTV.png" group-title="NASIONAL", UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 ###########################################################################################################################
 ##################  MOVIES  ########################################################################################
@@ -1817,124 +2753,6 @@ http://kuchini.site:8080/kodicologne/48e237edd2/298527
 http://kuchini.site:8080/kodicologne/48e237edd2/298528
 #EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 04
 http://kuchini.site:8080/kodicologne/48e237edd2/298529
-
-
-################    FIRSTMEDIA   ##########################
-###########################################################
-
-
-####################   BEIN SD  ###########################
-##########################################################
-
-
-
-###########################################################################################################################################################
-#######################  Sports  #########################################################################################################################
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png" group-title="Sports",TSN 1
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21006
-
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://i.ibb.co/4p1PbSh/tsn-2-ca.png" group-title="Sports",TSN 2
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/181852
-
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://i.ibb.co/BZbQYV5/tsn-3-ca.png" group-title="Sports",TSN 3
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/181853
-
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://i.ibb.co/4W7z5m9/tsn-4-ca.png" group-title="Sports",TSN 4
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21003
-
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://i.ibb.co/Bq2cfRc/tsn-5-ca.png" group-title="Sports",TSN 5
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
-
-#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="Sports",Sporttv 1
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
-
-#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="Sports",Sporttv 2
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
-
-#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="Sports",Sporttv 3
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
-
-#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="Sports",Sporttv 4
-https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
-
-#EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="Sports",Arena 1 Sport
-https://kusnadipepenk.github.io/ntn/arns1.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="Sports",Arena 2 Sport
-https://kusnadipepenk.github.io/ntn/arns2.m3u8
-
-#EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/Arena-Sport-3-1.png" group-title="Sports",Arena 3 Sport
-https://kusnadipepenk.github.io/ntn/arns3.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="Sports",Arena 4 Sport
-https://kusnadipepenk.github.io/ntn/arns4.m3u8
-
-#EXTINF:-1  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="Sports",Eleven 1
-https://kusnadipepenk.github.io/ntn/ele1.m3u8
-
-#EXTINF:-1  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="Sports",Eleven 2
-https://kusnadipepenk.github.io/ntn/ele2.m3u8
-
-#EXTINF:-1  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="Sports",Eleven 3
-https://kusnadipepenk.github.io/ntn/ele3.m3u8
-
-#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="Sports",Eleven Sport 1
-https://kusnadipepenk.github.io/ntn/elesp1.m3u8
-
-#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="Sports",Eleven Sport 2
-https://kusnadipepenk.github.io/ntn/elesp2.m3u8
-
-#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="Sports",Eleven Sport 3
-https://kusnadipepenk.github.io/ntn/elesp3.m3u8
-
-#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsFootball_201708//sky%20sports%20football_thumb.jpg" group-title="Sports",Sky Sport Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-##https://webudit.cdnhks.lol/lb/premium35/index.m3u8|referrer=https://streamservicehd.click/
-https://kusnadipepenk.github.io/ntn/skyfut.m3u8
-
-#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="Sports",Sky Sport Arena
-https://kusnadipepenk.github.io/ntn/skyare.m3u8
-
-#EXTINF:-1 group-title="Sports" group-title="Sports",MNC Sport 2
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298548
-
-#EXTINF:-1 group-title="Sports",MNC Sports 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298549
-#EXTINF:-1 group-title="Sports",Soccer Channel
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60451
-#EXTINF:-1 group-title="Sports",Soccer Channel 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60471
-#EXTINF:-1 group-title="Sports",DAZN 1
-http://assista.pro:80/0333686557/Vilamariante1/130503
-#EXTINF:-1 group-title="Sports",DAZN 2 
-http://assista.pro:80/0333686557/Vilamariante1/130505
-#EXTINF:-1 group-title="Sports",DAZN 3
-http://assista.pro:80/0333686557/Vilamariante1/130507
-#EXTINF:-1 group-title="Sports",DAZN 4 
-http://assista.pro:80/0333686557/Vilamariante1/130509
-#EXTINF:-1 group-title="Sports",DAZN 5
-http://assista.pro:80/0333686557/Vilamariante1/130510
-#EXTINF:-1 group-title="Sports",DE DAZN 1
-http://assista.pro:80/0333686557/Vilamariante1/285071
-#EXTINF:-1 group-title="Sports",DE DAZN 2
-http://assista.pro:80/0333686557/Vilamariante1/285072
-
-#EXTINF:-1 group-title="Sports",Sport TV +
-http://assista.pro:80/0333686557/Vilamariante1/284956
-#EXTINF:-1 group-title="Sports",Sport TV 1
-http://assista.pro:80/0333686557/Vilamariante1/284957
-#EXTINF:-1 group-title="Sports",Sport TV 2
-http://assista.pro:80/0333686557/Vilamariante1/284958
-#EXTINF:-1 group-title="Sports",Sport TV 3
-http://assista.pro:80/0333686557/Vilamariante1/284959
-#EXTINF:-1 group-title="Sports",Sport TV 4
-http://assista.pro:80/0333686557/Vilamariante1/284960
-#EXTINF:-1 group-title="Sports",Sport TV 5
-http://assista.pro:80/0333686557/Vilamariante1/284961
-#EXTINF:-1 group-title="Sports",Sport TV 6
-http://assista.pro:80/0333686557/Vilamariante1/284962
 
 ###########################################################################################################
 ##################  LIFESTYLE  ##################################################################
