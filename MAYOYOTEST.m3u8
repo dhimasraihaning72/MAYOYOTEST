@@ -1639,7 +1639,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QmrPWjn/UGTV.png" group-title="NASIONAL", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL",Moji
+EXTINF:-1 tvg-id="OChannel.id" tvg-name="Moji HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL",Moji
 http://tvkuonline.my.id:25461/riyad/riyad/24
 
 ###########################################################################################################################
