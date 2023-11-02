@@ -1349,13 +1349,13 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38424_&extens
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL OLAHRAGA LAINNYA", POLSAT SPORT PREMIUM 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Super_Polsat_HD.png" group-title="CHANNEL OLAHRAGA LAINNYA", POLSAT SPORT PREMIUM 1
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63651_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL OLAHRAGA LAINNYA", POLSAT SPORT PREMIUM 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Super_Polsat_HD.png" group-title="CHANNEL OLAHRAGA LAINNYA", POLSAT SPORT PREMIUM 2
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63652_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL OLAHRAGA LAINNYA", POLSAT SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Super_Polsat_HD.png" group-title="CHANNEL OLAHRAGA LAINNYA", POLSAT SPORT
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=22086_&extension=ts&play_token=W0JcMWGscf
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="CHANNEL OLAHRAGA LAINNYA", POLSAT SPORT FIGHT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Super_Polsat_HD.png" group-title="CHANNEL OLAHRAGA LAINNYA", POLSAT SPORT FIGHT
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=22087_&extension=ts&play_token=W0JcMWGscf
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Abudhabisports2015.png/revision/latest?cb=20200428142713" group-title="CHANNEL OLAHRAGA LAINNYA",ABU DHABI SPORT 1
