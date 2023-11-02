@@ -1921,6 +1921,8 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 https://ythls.repl.co/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png" group-title="Religi",MADINAH TV
 https://ythls.repl.co/channel/UCFrVnrQF6kTrkDdFZoT9CTQ.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png" group-title="Religi",MADINAH TV 2
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880918
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" group-title="Religi",AL-JAZEERA
 http://iptvorbit.net:8080/andy/andy/968
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png" group-title="Religi",RODJA TV
@@ -1930,8 +1932,10 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 group-title="Religi",Tawaf TV
 http://ae2.aatvbox.club:8880/12mk160078/31623992/60288
 #EXTINF:-1 tvg-id="HijrahTV.id" tvg-logo="https://i.imgur.com/bVN4zj2.png" group-title="Religi",HIJRAH TV
-https://h1.intechmedia.net/intech/ch8.m3u8
-#EXTINF:-1 tvg-id="RadioKitaTV.id" tvg-logo="https://i.imgur.com/Dz3BzBe.png" group-title="Religi",SUNNAH TV
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880913
+#EXTINF:-1 tvg-id="" tvg-logo="https://alwafatarim.tv/assets/images/logo.png" group-title="Religi",ALWAFA TARIM
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880908
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dz3BzBe.png" group-title="Religi",SUNNAH TV
 https://h1.intechmedia.net/intech/ch16.m3u8
 #EXTINF:-1 tvg-id="SunnahJalanPastiTV.id" tvg-logo="https://i.imgur.com/8Ls5rsy.png" group-title="Religi",SUNNAH JALAN PASTI TV 
 https://h1.intechmedia.net/intech/ch17.m3u8
@@ -1945,6 +1949,8 @@ https://h1.intechmedia.net/intech/ch4.m3u8
 https://h1.intechmedia.net/intech/ch12.m3u8
 #EXTINF:-1 tvg-id="MuadzTV.id" tvg-logo="https://i.imgur.com/wT7sNUW.png" group-title="Religi",MUADZ
 https://h1.intechmedia.net/intech/ch5.m3u8
+#EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_MGI_TV.png" group-title="Religi",MGI TV
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880922
 #EXTINF:-1 tvg-id="SurauTV.id" tvg-logo="https://i.imgur.com/CKoxcWL.png" group-title="Religi",SURAU TV
 https://h1.intechmedia.net/intech/ch3.m3u8
 #EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="Religi",ASHIIL TV
@@ -1958,7 +1964,7 @@ https://h1.intechmedia.net/intech/ch6.m3u8
 #EXTINF:-1 tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="Religi",IZZAH TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-id="InsanTV.id" tvg-logo="https://i.imgur.com/rvu37xY.png" group-title="Religi",INSAN TV 
-https://h1.intechmedia.net/intech/ch1.m3u8
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880914
 #EXTINF:-1 tvg-id="BinBazTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bin-baz-tv-id.png" group-title="Religi",BIN BAZ TV
 https://h1.intechmedia.net/intech/ch22.m3u8
 #EXTINF:-1 tvg-id="NiagaTV.id" tvg-logo="https://i.imgur.com/XNgj2q1.png" group-title="Religi",NIAGA TV 
