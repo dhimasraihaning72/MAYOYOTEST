@@ -2335,9 +2335,6 @@ https://webudit.cdnhks.lol/lb/premium668/index.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC SPORT 
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=825538&extension=ts&play_token=IuTBxI7wnr
 
-#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", EDGE SPORT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1014266&extension=ts&play_token=4CrIQYgTPx
-
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT BOX
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
 
@@ -2349,9 +2346,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29513_&extens
 
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", WWF CHANEL
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18127_&extension=ts
-
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", UFC CHANEL
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=108218_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dhimasraihaning72/MAYOYOTEST/main/WhatsApp%20Image%202023-10-23%20at%2010.34.06_0b2f725c.jpg" group-title="FIGHT SPORT",Bellator MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
