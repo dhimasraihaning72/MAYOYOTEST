@@ -1530,14 +1530,13 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="CHANNEL OLAHRAGA LAINNYA", MUTV
 https://anutv.xyz/live/live2.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="CHANNEL OLAHRAGA LAINNYA",TURKEMENISTAN SPORT
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="CHANNEL OLAHRAGA LAINNYA",TURKEMENISTAN SPORT
 https://anutv.xyz/live/live4.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="CHANNEL OLAHRAGA LAINNYA",S PREMIERE LEAGUE
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="CHANNEL OLAHRAGA LAINNYA",S PREMIERE LEAGUE
 https://anutv.xyz/live/live5.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="CHANNEL OLAHRAGA LAINNYA",ABU DHABI SPORT
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="CHANNEL OLAHRAGA LAINNYA",ABU DHABI SPORT
 https://anutv.xyz/live/live6.m3u8
-https://anutv.xyz/live/live10.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="CHANNEL OLAHRAGA LAINNYA",TRT SPORT 1
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="CHANNEL OLAHRAGA LAINNYA",TRT SPORT 1
 https://anutv.xyz/live/live11.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKPvU2kjv66oefwgIQf5M3RRawtut9qxfPw&usqp=CAU" group-title="CHANNEL OLAHRAGA LAINNYA", RMC SPORT 1
@@ -2522,3 +2521,4 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107430&extens
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzn46J_9eH1PGRchZniqLoBoSovSKzFfby7A&usqp=CAU" group-title="FOOTBALL CLUB", BTV BENFICA
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extension=ts&play_token=KIl56CmfeQ
 
+#EXTM3U billed-msg="❤️MAYOYO PLAYLIST❤️"
