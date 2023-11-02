@@ -134,48 +134,8 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extensio
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="LIGA INGGRIS", BEIN SPORTS TH
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 
-#########################   SUPERSPORT   ##############################
+#########################   ARENA SPORT  ##############################
 #######################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xCyK0ZHX/Super-Sport-Premier-League.png" group-title=" SuperSport ", SuperSport Premier League
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
-##http://raw.bitnode.pm:81/giorgi/giorgi/38703
-#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="NL: ZIGGO Select" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d1bfb1240f4d7a3afa266815fff73b64.png" group-title=" SuperSport " ➾ Sports",NL: ZIGGO Select
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/851
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RFz7xm3r/Super-Sport-La-Liga.png" group-title=" SuperSport ", SuperSport LaLiga
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186985
-##http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/1143059
-##http://raw.bitnode.pm:81/giorgi/giorgi/38698
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cL27Tw0L/Super-Sport-Football.png" group-title=" SuperSport ", SuperSport Football
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186981
-##http://raw.bitnode.pm:81/giorgi/giorgi/38694
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8kmHD7BZ/Super-Sport-Variety-1.png" group-title=" SuperSport ", SuperSport Variety 1
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187005
-##http://raw.bitnode.pm:81/giorgi/giorgi/38707
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FsFxKhTN/Super-Sport-Variety-2.png" group-title=" SuperSport ", SuperSport Variety 2
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187006
-##http://raw.bitnode.pm:81/giorgi/giorgi/38708
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr2Y1Wcy/Super-Sport-Variety-3.png" group-title=" SuperSport ", SuperSport Variety 3
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187007
-##http://raw.bitnode.pm:81/giorgi/giorgi/38709
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FzT3SJTm/Super-Sport-Variety-4.png" group-title=" SuperSport ", SuperSport Variety 4
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187008
-##http://raw.bitnode.pm:81/giorgi/giorgi/38710
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QtpqFCLx/Super-Sport-Motorsport.png" group-title=" SuperSport ", SuperSport Motorsport
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186989
-##http://raw.bitnode.pm:81/giorgi/giorgi/38700
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xCrRjH44/Super-Sport-Grandstand.png" group-title=" SuperSport ", SuperSport Grandstand
-http://raw.bitnode.pm:81/giorgi/giorgi/38697
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/526qwncr/Super-Sport-Action.png" group-title=" SuperSport ", SuperSport Action
-http://raw.bitnode.pm:81/giorgi/giorgi/38690
-
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 1 HD
 http://80.252.37.194:5000/udp/233.233.233.3:12000
@@ -189,6 +149,9 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 6 HD
 http://80.252.37.194:5000/udp/233.233.233.8:12000
+
+#########################  LIGA INDONESIA  ##############################
+#######################################################################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="LIGA INDONESIA", LAGA 1 
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
@@ -207,6 +170,8 @@ http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
 http://kuchini.site:8080/F30140/f3de2280/298549
 ##http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
 
+#########################   EVENT BOLA  ##############################
+#######################################################################
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1040328&extension=ts&play_token=33OqsgppFx
@@ -239,6 +204,9 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extensi
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 15
 http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131946&extension=ts&play_token=ijnmRQLtfl
 
+#########################   EVENT GP  ##############################
+#######################################################################
+
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
 ##http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs
@@ -259,7 +227,8 @@ http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/130488
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 9
 http://starhd.kozow.com:8880/Marcolio1000/R7jCsyLRpp/130489
 
-
+#########################   EVENT F1  ##############################
+#######################################################################
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508331&extension=ts&play_token=U71gOhaI4v
