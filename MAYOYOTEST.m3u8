@@ -1918,9 +1918,9 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 ########################  RELIGI ########################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png" group-title="Religi",MAKKAH TV
-http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+https://ythls.repl.co/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png" group-title="Religi",MADINAH TV
-http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
+https://ythls.repl.co/channel/UCFrVnrQF6kTrkDdFZoT9CTQ.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
