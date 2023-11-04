@@ -2020,11 +2020,8 @@ http://premiumiptvmk.com:8080/EyQcvdQmdH/8dee970d45/157593
 #EXTINF:-1 group-title="CARTOONS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5iHjLXMTN26XvhhAfGc9YeiuktQduffVsmA&usqp=CAU",Animax
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="CARTOONS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5iHjLXMTN26XvhhAfGc9YeiuktQduffVsmA&usqp=CAU",Animax
-https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 group-title="CARTOONS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5iHjLXMTN26XvhhAfGc9YeiuktQduffVsmA&usqp=CAU",Animax 2
+https://iptv.skuy.co.id/live/bebas/nikmatin/47.ts
 
 #EXTINF:-1 group-title="CARTOONS" tvg-logo="https://www.useetv.com/pimages/logo_animax_big.png?v=1",Animax Viet
 http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
@@ -2065,7 +2062,7 @@ http://5.255.90.238:5004/play/a022
 http://37.48.101.149:5012/play/a00h/index.m3u8
 
 #EXTINF:-1 group-title="CARTOONS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",Aniplus
-http://210.210.155.37/dr9445/h/h02/index.m3u8
+https://iptv.skuy.co.id/live/bebas/nikmatin/177748.ts
 
 #EXTINF:-1 group-title="CARTOONS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",Aniplus
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
