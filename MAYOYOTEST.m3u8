@@ -608,40 +608,19 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9WdZY7Z/CANALPLUSP1.png" group-title="CHANNEL OLAHRAGA #2", CANAL+ SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.webdicdn.lol/lb/premium48/index.m3u8
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21909_&extension=ts&play_token=W0JcMWGscf
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kKPnSTj/CANALPLUSP2.png" group-title="CHANNEL OLAHRAGA #2", CANAL+ SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn-global.lolokoko.tv/canalplussport2.stream/chunks.m3u8
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=21922_&extension=ts&play_token=W0JcMWGscf
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j6cMD08/CANALPLUSP3.png" group-title="CHANNEL OLAHRAGA #2", CANAL+ SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn-global.lolokoko.tv/canalplussport3.stream/chunks.m3u8
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63648_&extension=ts&play_token=W0JcMWGscf
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f1n4G9t/CANALPLUSP4.png" group-title="CHANNEL OLAHRAGA #2", CANAL+ SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdn-global.lolokoko.tv/canalplussport4.stream/chunks.m3u8
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=63649_&extension=ts&play_token=W0JcMWGscf
 
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/WfN3KhG/BEINSP1.png" group-title="CHANNEL OLAHRAGA #2" , DAZN X BEIN SPORTS 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-039/stream.mpd
-
-#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://i.ibb.co/bbXNfDR/BEINSP2.png" group-title="CHANNEL OLAHRAGA #2" , DAZN X BEIN SPORTS 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-040/stream.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://i.ibb.co/vvRMfnr/BEINSP3.png" group-title="CHANNEL OLAHRAGA #2" , DAZN X BEIN SPORTS 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-041/stream.mpd
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f1n4G9t/CANALPLUSP4.png" group-title="CHANNEL OLAHRAGA #2", CANAL+ SPORT 5
+http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=15616_&extension=ts&play_token=W0JcMWGscf
 
 #EXTINF:-1 tvg-id="DAZN 1 DE" tvg-logo="https://i.ibb.co/B3C5fJN/DAZN1.png" group-title="CHANNEL OLAHRAGA #2" , DAZN 1 DE 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
