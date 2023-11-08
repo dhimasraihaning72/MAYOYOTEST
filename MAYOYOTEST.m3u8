@@ -1484,96 +1484,145 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/287792
 ##############################################################################################################################################
 ############### TV Nasional #######################################
 
-#EXTINF:-1 group-logo="https://i.ibb.co/K0vmtrP/cat-nasional.png",
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683194&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="NASIONAL", TRANS TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL", RCTI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL", MNC TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683098&extension=ts&play_token=GVZS088tcf 
 
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://i.ibb.co/yXhzXYz/ANTV.png" group-title="NASIONAL", ANTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL", GTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV One
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NASIONAL", Metro TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683181&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="NASIONAL", Net TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="NASIONAL", Rajawali TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683095&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="NASIONAL", OK TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683105&extension=ts&play_token=GVZS088tcf 
 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.ibb.co/VqdsmGx/BERITASATUTV.png" group-title="NASIONAL", BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="NASIONAL", Jak TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683180&extension=ts&play_token=GVZS088tcf 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="NASIONAL", JTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683115&extension=ts&play_token=GVZS088tcf 
 
-#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/NF5nv32/CNBCINDO.png" group-title="NASIONAL", CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="NASIONAL", Berita Satu
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683182&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="NASIONAL", Entertainment
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683188&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="NASIONAL", TVRI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683195&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NASIONAL", CNN Indonesia
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683195&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NASIONAL", Infotainment
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683126&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="NASIONAL", Vision Prime
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683124&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="NASIONAL", MTA TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683103&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NASIONAL", ONE
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683130&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="NASIONAL", KIX
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683134&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="NASIONAL", Celestial Movies
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683142&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="NASIONAL", CCM
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683110&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="NASIONAL", TVN Movies
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683149&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="NASIONAL", TVN
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="NASIONAL", Thrill
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="NASIONAL", CinemaWorld
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683146&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="NASIONAL", Hits
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683145&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="NASIONAL", Hits Movies
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683163&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/tC8zh3w/CNNINDO.png" group-title="NASIONAL", CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="NASIONAL", Zee Bioskop
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683155&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="NASIONAL", My Cinema
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683152&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="NASIONAL", My Cinema Asia
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683151&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="NASIONAL", My Family Cinema 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683150&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="NASIONAL", Cinemachi Extra
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683161&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="NASIONAL", Cinemachi Max
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683173&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="NASIONAL", Cinemachi Kids
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683085&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.ibb.co/y8ttk8r/GTV.png" group-title="NASIONAL", GTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/TrzzTfg/INDOSIAR.png" group-title="NASIONAL", INDOSIAR
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/TrzzTfg/INDOSIAR.png" group-title="NASIONAL", INDOSIAR HD
-https://apex.biz.id/play/0ilmhZodH2Kc6NwNilEOdR9KjWJvMcLFidDw1qDk3VQ/m3u8
-
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://i.ibb.co/sJsThk3/INEWS.png" group-title="NASIONAL", INEWS
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-**https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/VD6xxtF/KOMPASTV.png" group-title="NASIONAL", KOMPAS TV
-https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MAGNA TV" tvg-logo="https://i.ibb.co/JpcQDkW/MAGNA.png" group-title="NASIONAL", MAGNA TV
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/DgyRR2X/METROTV.png" group-title="NASIONAL", METRO TV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNC" tvg-name="MNC" tvg-logo="https://i.ibb.co/g95BZ1h/MNCTV.png" group-title="NASIONAL", MNC TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.ibb.co/drnFWch/NET.png" group-title="NASIONAL", NET.
-http://210.210.155.37/uq2663/h/h06/index.m3u8
-
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.ibb.co/xz3VQVj/NUSANTARA.png" group-title="NASIONAL", NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.ibb.co/hdm3RBb/RCTI.png" group-title="NASIONAL", RCTI
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#EXTINF:-1 tvg-id="RTV" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co/dLF9SvX/RTV.png" group-title="NASIONAL", RTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/D4FByfk/SCTV.png" group-title="NASIONAL", SCTV
-**http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
-
-#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/SvFg1Hg/TRANSTV.png" group-title="NASIONAL", TRANS TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
-
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/b2nP8VK/T7.png" group-title="NASIONAL", TRANS 7
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
-
-
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="https://i.ibb.co/Tmw4CVw/TVONE.png" group-title="NASIONAL", TV ONE
-https://ythls.onrender.com/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
-
-#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/8jFmx2k/TVRI.png" group-title="NASIONAL", TVRI NASIONAL
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QmrPWjn/UGTV.png" group-title="NASIONAL", UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL",Moji
-http://tvkuonline.my.id:25461/riyad/riyad/24
+#EXTINF:-1 tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/XING-KONG-919-523-new.png" group-title="NASIONAL", XingkongTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683147&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="NASIONAL", Rock Action
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683147&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="NASIONAL", Paramount Network
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683174&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="NASIONAL", Animax
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683165&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="NASIONAL", MKidZ
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683156&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="NASIONAL", Baby TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683167&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="NASIONAL", Kids TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="NASIONAL", ZooMoo
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683172&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="NASIONAL", DreamWorks
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683171&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="NASIONAL", Nickelodeon
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683175&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="NASIONAL", AXN
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683144&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://cdn.okezone.com/underwood/revamp/2023/tv/desktop/img/share.jpeg" group-title="NASIONAL", OKEZONE TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683128&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="NASIONAL", Lifetime
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683129&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/81b0c7cdcd17b9278bd3314c401b9600.png" group-title="NASIONAL", Life
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683125&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="NASIONAL", TV 9 Nusantara
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683196&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="NASIONAL", FMN
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683143&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="NASIONAL", SpoTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683117&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="NASIONAL", SPORTSTAR
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683133&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="NASIONAL", BEIN SPORT
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683139&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="NASIONAL", BEIN SPORT 2
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683138&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="NASIONAL", Fight Sport
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683135&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="NASIONAL", MNC News
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683193&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="NASIONAL", Bandung TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683107&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_78-iXAaoJEHQQEXHdIMpJCraBNrnZelBEoFFiHtWEeDzaQ8TVVTF--TIY0ua0xttzLM&usqp=CAU" group-title="NASIONAL", Tawaf TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="NASIONAL", Muslim TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683103&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="NASIONAL", QURAN KARIM TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="NASIONAL", Love Nature
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683089&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png" group-title="NASIONAL", OUTDOOR
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683086&extension=ts&play_token=GVZS088tcf
 
 ###########################################################################################################################
 ##################  MOVIES  ########################################################################################
@@ -1734,7 +1783,7 @@ http://iptvtree.net:8080/mitrovic/ff9bb47a59/157584
 #############################  KNOWLEDGE  #####################################################################################################
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE",Animal Planet
-http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/157532
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571227&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-name="wired 2 fish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="KNOWLEDGE",Love Nature
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
