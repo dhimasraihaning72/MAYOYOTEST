@@ -1894,6 +1894,13 @@ https://apel-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #EXTINF:-1 tvg-id="" group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
 https://apel-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_78-iXAaoJEHQQEXHdIMpJCraBNrnZelBEoFFiHtWEeDzaQ8TVVTF--TIY0ua0xttzLM&usqp=CAU" group-title="NASIONAL", Tawaf TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="NASIONAL", Muslim TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683103&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="NASIONAL", QURAN KARIM TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&extension=ts&play_token=GVZS088tcf
+
 ############################################################################################################################################################
 ############################ ANAK-ANAK #############################################################################################################
 
