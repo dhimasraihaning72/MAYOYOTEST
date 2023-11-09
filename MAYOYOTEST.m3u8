@@ -1901,6 +1901,40 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683103&ex
 #EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="NASIONAL", QURAN KARIM TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&extension=ts&play_token=GVZS088tcf
 
+#EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://i.postimg.cc/R0gBBHmR/ashiltv.png" group-title="RELIGI",Ashiil TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://h1.intechmedia.net/intech/ch2.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/vTG75C4n/muslimtv.png",Muslim TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:-101 group-title="RELIGI" tvg-logo="https://i.postimg.cc/vTMWRs8Q/cm.png",Citra Muslim
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
+
+#EXTINF:-101 group-title="RELIGI" tvg-logo="https://i.postimg.cc/ncTKjDMG/tarim.png",Al Wafa Tarim
+https://ammedia.siar.us/ammedia/live/index.m3u8
+
+#EXTINF:-101 group-title="RELIGI" tvg-logo="https://i.postimg.cc/nzK8HDdZ/ajwa.png",Ajwa TV
+#https://kametv.my.id/putar/ajwatv.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RELIGI" tvg-logo="https://i.postimg.cc/wjD4ksNq/mtatv.png", MTATV
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/YCJ3T21X/rodja.png" , Rodja TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/x8vq52KF/mqtv.png" , MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w2078258997.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2TCGhw2/tv9.png" group-title="RELIGI",TV9 Nusantara
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://i.postimg.cc/vHWxGW6w/TvMu.png" , Muhammadiyah TV
+https://e.siar.us/live/tvmu.m3u8
+
 ############################################################################################################################################################
 ############################ ANAK-ANAK #############################################################################################################
 
