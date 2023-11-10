@@ -40,6 +40,10 @@ https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", RTSH SPORT
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65211_&extension=ts&play_token=W0JcMWGscf
 
+#EXTVLCOPT:http-referrer=https://hksc4ctu.buzz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#EXTINF:-14  group-title="PIALA DUNIA U-17" tvg-logo=" ",U17 : INDOSIAR
+https://01fhls.1mv.xyz/by06scpx/s2001/v3a/aHR0cCUzQSUyRiUyRnRzNzcuM3hzdG0ub25l/vv/super/3x_563507.m3u8
 
 ###########################  BEIN SPORT CHANNEL ####################################
 ############################################################################
