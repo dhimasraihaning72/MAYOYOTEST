@@ -33,6 +33,8 @@ https://ythls.repl.co/channel/UCFeEHyACDmr5krZb5pHZdmw.m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", Astro SuperSport 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", FOX SPORT 2
+http://iptvtree.net:8080/mitrovic/ff9bb47a59/157488
 
 ###########################  BEIN SPORT CHANNEL ####################################
 ############################################################################
