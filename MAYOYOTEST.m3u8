@@ -48,21 +48,19 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", FOX SPORT 2
 http://iptvtree.net:8080/mitrovic/ff9bb47a59/157488
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", FOX SOCCER PLUS
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=533668&extension=ts&play_token=33OqsgppFx
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/m8LdRTf/FIFAPLUS.png" group-title="PIALA DUNIA U-17" , FIFA+
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", RTSH SPORT
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65211_&extension=ts&play_token=W0JcMWGscf
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", BEIN SPORT 6 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59311&extension=ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", TYC SPORT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79284&extension=ts&play_token=N7EmQhXfa1
 
 ###########################  BEIN SPORT CHANNEL ####################################
 ############################################################################
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="BEIN SPORT CHANNEL", BEIN SPORT
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683139&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="BEIN SPORT CHANNEL", BEIN SPORT 2
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683138&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS
-http://smartsistem.xyz:8080/oguzozkan/6726159823/12
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 FULL HD
 http://smartsistem.xyz:8080/oguzozkan/6726159823/5395
