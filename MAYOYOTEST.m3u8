@@ -33,7 +33,7 @@ refresh="3600"
 ############################################################################
 
 #EXTINF:-1 tvg-logo="https://imgcdn.solopos.com/@space/2023/10/logo-red-sparks.jpg" group-title="VOLLY MEGAWATI", VOLLY 1
-https://ythls.repl.co/channel/UCj_CTMsGRvob8bfF3YJCU-g.m3u8
+https://ythls.repl.co/video/UCj_CTMsGRvob8bfF3YJCU-g.m3u8
 #EXTINF:-1 tvg-logo="https://imgcdn.solopos.com/@space/2023/10/logo-red-sparks.jpg" group-title="VOLLY MEGAWATI", VOLLY 2
 https://ythls.repl.co/channel/UCL4vqSQ6kfb2kH3sQMMsnaA.m3u8
 #EXTINF:-1 tvg-logo="https://imgcdn.solopos.com/@space/2023/10/logo-red-sparks.jpg" group-title="VOLLY MEGAWATI", VOLLY 3
