@@ -72,6 +72,8 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=65211_&e
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=59311&extension=ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", TYC SPORT
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79284&extension=ts&play_token=N7EmQhXfa1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", ARENA BOLA (LIVE ONLY)
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79284&extension=ts&play_token=N7EmQhXfa1
 
 
 ###########################  BEIN SPORT CHANNEL ####################################
