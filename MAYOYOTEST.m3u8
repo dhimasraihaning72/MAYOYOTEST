@@ -28,7 +28,6 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=10324
 #EXTM3U url-tvg="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/USA/tv.com.channels.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml"
 #EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/thailand.xml" m3uautoload=1 cache=500 deinterlace=1
-
 refresh="3600"
 
 ###########################  MEGAWATI  ####################################
