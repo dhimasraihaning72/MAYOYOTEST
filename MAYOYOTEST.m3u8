@@ -16,7 +16,7 @@ http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=10324
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/ardanepg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/mariepg.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/masimaepg.xml"
