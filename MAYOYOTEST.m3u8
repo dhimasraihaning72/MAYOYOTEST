@@ -2,7 +2,6 @@
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
 
 
-#EXTM3U
 #EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
@@ -64,7 +63,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&ex
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", Astro SuperSport 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", FOX SPORT 2
-http://iptvtree.net:8080/mitrovic/ff9bb47a59/157488
+http://iptvstream.xyz:8080/Dooby/66754f23/157488
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="PIALA DUNIA U-17", FOX SOCCER PLUS
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=533668&extension=ts&play_token=33OqsgppFx
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/m8LdRTf/FIFAPLUS.png" group-title="PIALA DUNIA U-17" , FIFA+
@@ -84,98 +83,31 @@ http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/36
 ###########################  BEIN SPORT CHANNEL ####################################
 ############################################################################
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 FULL HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/5395
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/8
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 QHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/5396
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 SD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 MOBIL
-http://smartsistem.xyz:8080/oguzozkan/6726159823/11
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 480p
-http://smartsistem.xyz:8080/oguzozkan/6726159823/26
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/psl5ml0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 1 4K
-http://smartsistem.xyz:8080/oguzozkan/6726159823/7
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 2 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/14
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/165105
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 2 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/15
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 2 SD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/16
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 3 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/17
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683138&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 3 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/18
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 3 SD 
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9237
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 4 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/19
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646975_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS 4 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9238
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="BEIN SPORT CHANNEL", beIN SPORTS 5 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/69216
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=13244_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="BEIN SPORT CHANNEL", beIN SPORTS 5 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/69215
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 1 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/20
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192750&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 1 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9233
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 1 Yedek
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9234
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 2 FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/21
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=13599_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 2 HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9235
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=13250_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS MAX 2
-http://smartsistem.xyz:8080/oguzozkan/6726159823/9236
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS HABER HHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=57793&extension=ts
 
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS HABER FHD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/22
-
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="BEIN SPORT CHANNEL", beIN SPORTS HABER HD
-http://smartsistem.xyz:8080/oguzozkan/6726159823/22358
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -1
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30561
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -2
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30562
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -3
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30563
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -4
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30564
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -5
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30565
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="BEIN SPORT CHANNEL", BEINCONNET CANLI MAC HD -6
-http://smartsistem.xyz:8080/oguzozkan/6726159823/30566
 
 
 ###########################  LIGA INGGRIS  ####################################
