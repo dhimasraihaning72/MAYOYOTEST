@@ -35,7 +35,7 @@ refresh="3600"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://imgcdn.solopos.com/@space/2023/10/logo-red-sparks.jpg" group-title="VOLLY MEGAWATI",VOLLY 2
+#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://imgcdn.solopos.com/@space/2023/10/logo-red-sparks.jpg" group-title="VOLLY MEGAWATI",VOLLY 1
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgcdn.solopos.com/@space/2023/10/logo-red-sparks.jpg" group-title="VOLLY MEGAWATI", VOLLY 2
