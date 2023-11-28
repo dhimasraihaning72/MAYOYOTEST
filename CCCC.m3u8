@@ -1,40 +1,3 @@
-#EXTM3U url-tvg="https://anutv.xyz/epg/anutv.xml" refresh="3600"
-#EXTM3U x-url-tvg="https://anutv.xyz/epg/anutv.xml" refresh="3600"
-
-####### PLAYLIST INI DISUSUN UNTUK PEMBELAJARAN DAN BUKAN KOMERSIL SESUAI UU YANG BERLAKU ######
-####### LISENSI RESMI PENYIARAN ADALAH MILIK MASING-MASING PENYEDIA PROVIDER IPTV SESUAI UU YANG BERLAKU #######
-####### ANUTV HANYA MENYEDIAKAN SCRIPT UNTUK PEMBELAJARAN DALAM MENYUSUN KODING M3U8 #######
-####### PENYALAHGUNAAN PLAYLIST BUKAN TANGGUNG JAWAB ANUTV ##########
-
-############################################## WELCOME TO ANUTV #########################################################
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="Welcome to AnuTV",AnuTV
-https://www.googleapis.com/drive/v3/files/1POg60MplNQC1AEk5RQJnbMryyFgHYVMq?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="AKTIVASI SEMUA PROVIDER", WA ADMIN 087890558115
-https://www.googleapis.com/drive/v3/files/1w-2T-scfYZ9hpMLi9x4E75uBThknjprd?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="AKTIVASI SEMUA PROVIDER", MENONTON VERSI FULL
-https://www.googleapis.com/drive/v3/files/1w-2T-scfYZ9hpMLi9x4E75uBThknjprd?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="PAKET FULL DAN UNLIMITED", WA KAMI 087890558115
-https://www.googleapis.com/drive/v3/files/1w-2T-scfYZ9hpMLi9x4E75uBThknjprd?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="UPGRADE PAKET FULL", PILIH PAKET 2/3 FULL SIARAN
-https://www.googleapis.com/drive/v3/files/1w-2T-scfYZ9hpMLi9x4E75uBThknjprd?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="UPGRADE PAKET FULL", TONTON SIARAN FULL
-https://www.googleapis.com/drive/v3/files/1w-2T-scfYZ9hpMLi9x4E75uBThknjprd?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="UPGRADE PAKET RESELLER", Whatsapp 087890558115
-https://www.googleapis.com/drive/v3/files/1POg60MplNQC1AEk5RQJnbMryyFgHYVMq?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="UPGRADE PAKET RESELLER", PILIH PAKET 3 DAN PANEL
-https://www.googleapis.com/drive/v3/files/1POg60MplNQC1AEk5RQJnbMryyFgHYVMq?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-
-#EXTINF:-1 group-logo="https://anutv.xyz/gambar/kontak.jpg" tvg-id="TVRI.Id" tvg-logo="https://anutv.xyz/gambar/kontak.jpg" group-title="Contact Us", No Whatsapp 087890558115
-https://www.googleapis.com/drive/v3/files/1POg60MplNQC1AEk5RQJnbMryyFgHYVMq?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-#EXTINF:-1 tvg-id="TVRI.Id" tvg-logo="https://anutv.xyz/gambar/kontak.jpg" group-title="Contact Us", Telegram @AnuTV_Official
-https://www.googleapis.com/drive/v3/files/1POg60MplNQC1AEk5RQJnbMryyFgHYVMq?alt=media&key=AIzaSyBZfIDpz7d3xJl6Vv9Ev4CJfI-1gtb0BxQ
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
-
 ################################
 
 
@@ -72,8 +35,6 @@ https://anutv.xyz/live/live10.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="[LIVE] SPORT",LIVE 11 HD
 https://anutv.xyz/live/live11.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
 
 ###############################################################################################################
 
@@ -119,11 +80,6 @@ https://anutv.xyz/live/indo/liga3.m3u8
 #EXTINF:-1 tvg-logo="https://anutv.xyz/gambar/bri.jpg"group-title="[LIVE] Liga Indonesia", LIVE IDN 4 ANUTV
 https://anutv.xyz/live/indo/liga4.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
-
-
-
 ###############################################################################################################
 
 
@@ -143,7 +99,6 @@ https://anutv.xyz/live/laliga/laliga3.m3u8
 #EXTINF:-1 tvg-logo="https://anutv.xyz/gambar/laliga.jpeg"group-title="[LIVE] Laliga", LIVE Laliga 4 ANUTV
 https://anutv.xyz/live/laliga/laliga2.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
 
 ###############################################################################################################
 
@@ -162,7 +117,6 @@ https://anutv.xyz/live/ligue/ligue3.m3u8
 #EXTINF:-1 tvg-logo="https://anutv.xyz/gambar/ligue 1.png"group-title="[LIVE] Ligue", LIVE Ligue 4 ANUTV
 https://anutv.xyz/live/ligue/ligue4.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
 
 ###############################################################################################################
 
@@ -181,7 +135,6 @@ https://anutv.xyz/live/bundes/bundes3.m3u8
 #EXTINF:-1 tvg-logo="https://anutv.xyz/gambar/bundes.png"group-title="[LIVE] Bundesliga", LIVE Bundes 4 ANUTV
 https://anutv.xyz/live/bundes/bundes4.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0"group-title="",
 
 ###############################################################################################################
 
