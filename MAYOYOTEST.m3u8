@@ -1690,20 +1690,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadi
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="RELIGI",EWTN
 https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png" group-title="RELIGI",LIFE
-https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png" group-title="RELIGI",Reformed 21
 https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/DAAI.png" group-title="RELIGI", DAAITV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="RELIGI", RODJA TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1732,22 +1724,83 @@ https://h1.intechmedia.net/intech/ch24.m3u8
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/rodja.png" group-title="RELIGI", RODJA TV 1 (HD)
 https://rodjatv.com/rodjatv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png" group-title="RELIGI", GAZWAH TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701380010/ei/SqtoZervAemVvcAPrJ6X0AU/ip/180.247.46.184/id/nphKeU5Wy8A.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f8G--oh50cRcezdrHWuf3ri61VVUahA71n4n1rAUJqgavJ2Oxb8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAMwesDJcf38kR2mDmF9OegKGPBeN05Gc5_XbYzGqEnIHAiEA8gawTJhmGEwujhyte8LhdJpiCnbqsj0YNTkYM1aalNw%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png" group-title="RELIGI", MAKKAH TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701379904/ei/4KpoZYG8AYOq1d8P8IWN0AE/ip/180.247.46.184/id/PEmRPDJ9I8M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fzRP3UC5iYQExMl0AYMG31l7xS-FV8oA9BXniRGKQ_t9sA5El2E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhALWM3TR_yqXI3perUC9p5G9iz_evGZ-f8eI6pTSrZ_E_AiEAxwOpWYeY9mUQXaV3KOn9Nr9DyqgQnlL_PlL9sO7kM40%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png" group-title="RELIGI", MADINA TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701379844/ei/pKpoZcH_I8W11d8PsdigsAQ/ip/180.247.46.184/id/EB0Y1ztWnic.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f_SZDnOADqkW4Ulph_q_-66qrn_B7Iru2XSjnJ97JX0bCN9fR9k/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgT_EHB206Qch45JcSuOo9o9KtbaMZm9K6_uRIZ8FecAoCIBfjOjxe3OWg6eJFgcTLvyl7KNt9OJNmuaaKz-jiJY98/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png" group-title="RELIGI", SRB TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701379762/ei/UqpoZcSfN--91d8PxdyOgAU/ip/180.247.46.184/id/IDOn6KHxTrc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f4q2QesAJvrAlhqJmnKYfaQUKK2DrGwo1jc-Wb9m0yxbzXtoji0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgS4KlXtVVCdeBqvC8PkcAWs_xYwvxgQG6rMgjrzZOlUACIQCC8774ydg2jTualf-QDBfhB8eXaxAV62uUV0RuZpkBVQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png" group-title="RELIGI", KHB TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701379674/ei/-qloZfbKL7362roPuPe7oA8/ip/180.247.46.184/id/-p74DE68G78.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f3MgZI5oP9StgUVo5vqKnJ1LBavFPezlJfnL-yhvlO3k9ehzccQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAI5wKntGTT18V_5BVSEFEXkDq5btbzgLcCLcHpTYIVYwAiAifnywZS6QWoCJICAawdM9rKKCCcF8JltcgeGBTfOigA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png" group-title="RELIGI", Media Sunnah Aceh TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701380108/ei/rKtoZa-fDPrj7OsP-Mi_uAg/ip/180.247.46.184/id/zEFjjZkaTIk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f_AbcJgs66AaRMsooyQ4S4xAh8Cu5dDwtO83ulGxUccJLHK3YHg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAL7WZZL8Hy7aAcJHbYleu937y4O0Z5n72MvR1ShxC8KkAiEA2-JJK6k1fCjMx_eP64fdWudvpnRKrdsZyc0CtZvewfU%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png" group-title="RELIGI", FATWA TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701341082/ei/OhNoZbiJI7Pi3LUPw5aQwAM/ip/114.125.206.255/id/CIlhDW18WqA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f0jfVIo3Hd4_2Nx_QWAXIaBjxyUGWd6YUVtaiVky535IHWzMCl4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgEQqd-uEdVwnQFR5_hUzkD58Uk8Kphb2pduuQ1uAIWIgCIB82KGr3JHDTQiq1Ero9BWEDSLO7NpXbDkY3BIKnDgS0/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png" group-title="RELIGI", BAHJAH TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701341186/ei/ohNoZbGAAvWHjuMP84SwiAQ/ip/114.125.206.255/id/f6CEBPwm1wQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f6S4RYufxwn5mtAy9gOHQ4-sOU-Xlhssngs4L537VB40-x5y6FE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgFS5HDa_t8mPyGlK0-6Qpw_5hSVcV-tN3Nr1syxwnKBICIQDTC7SFSoWTOgrhDpw_1wMm71cpI744n8O9BCtkvEwsPg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://brtv.co.id/wp-content/uploads/2022/12/LOGO-BRTV-ORIGINAL-300x93.png" group-title="RELIGI", BRTV 
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png" group-title="RELIGI", Radio Al Iman
+https://radioislamindonesia.com/aliman.mp3?_=2
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/shahabat.png" group-title="RELIGI", Radio Sahabat
+https://radioislamindonesia.com/shahabatmuslim.mp3
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png" group-title="RELIGI", Radio RODJA
+https://server-s5.xajist.com/sslstream/8522/;?1672893035952
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/hang.png" group-title="RELIGI", Radio HANG
+http://185.47.62.52:8000/
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/syiartauhidaceh.png" group-title="RELIGI", Radio Syi'ar Tauhid Aceh
+http://45.64.97.82:8260/;
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/arrisalahfm.png" group-title="RELIGI", Radio Arrisalah
+https://pu.klikhost.com:8092/stream
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/insanifm.png" group-title="RELIGI", Radio Insani
+https://ssg.streamingmurah.com:8070/;
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/hidayahfm.png" group-title="RELIGI", Radio Hidayah
+https://radioislamindonesia.com/radiohidayah.mp3
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiohsi.png" group-title="RELIGI", Radio HSI
+http://whsh4u-panel.com:14007/
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/alkanz.png" group-title="RELIGI", Radio AlKanz
+http://live.radiomutiaraquran.com:8000/stream
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/madinahfm.png" group-title="RELIGI", Radio MADINAH
+https://radioislamindonesia.com/radiomadinah.mp3
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/madinahfm.png" group-title="RELIGI", Radio Raudlatul Jannah
+http://live.syaria.net:9306/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://taawundakwah.com/wp-content/uploads/2016/09/logo-rds-kotak-720x720.jpg" group-title="RELIGI", Radio Dakwah Sunnah
+http://live.dakwahsunnah.com/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0RjrdJtCe7ie0XeuLQ9lDW4-cQrgfZSqAlQ&usqp=CAU" group-title="RELIGI", Radio Kita Cirebon
+https://sunnah.radio.yufid.com/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHyVJ0BP1nv9Nz1twHDKmqnoC5AfFhtoV7rQ&usqp=CAU" group-title="RELIGI", Radio Tafsir Al-Quran
+http://206.72.199.179:9992/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmkvWaBxEJtWwMoOltHm5bxP28wTLiv1bSvqC0NLMRnkRfrgFTNtkLdRr&s=10" group-title="RELIGI", Radio KSA Sunnah
+https://radiosunna.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tQ-zo_la_JpWWfNtxtT-gROFNtB8z68iqg&usqp=CAU" group-title="RELIGI", Radio Ruqyah
+https://stream-40.zeno.fm/pz72fq579f0uv?zs=Ul5sqtHcSt2egYs9SrjFzw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRdqqji6nU67b5YzmJa2sBuHQwwwZIM43ug&usqp=CAU" group-title="RELIGI", Radio Dzikir Pagi
+https://ia800309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirPagi.mp3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWYzrjnSFY9iO05yXgdtheirfXTDP19ay5A&usqp=CAU" group-title="RELIGI", Radio Dzikir Petang
+https://ia600309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirSore_hiss_reduce.mp3
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/amoeba.png" group-title="RELIGI", Radio Amoeba FM
+http://live.syaria.net:9300/;?1672826390470
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiodai.png" group-title="RELIGI", Radio DAI
+http://pu.klikhost.com:7204/stream?1672828237600
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/rjfm.png" group-title="RELIGI", Radio RJFM
+http://live.syaria.net:9306/;?1672828352135
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ14s_jKCtayPLydi6z0TTJFx2Fh85lIA_okQ&usqp=CAU" group-title="RELIGI", Radio Al-Qur'an Indo
+http://server2.quraan.us:9978/;*.mp3
+
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa%20tv.png" group-title="RELIGI", Radio UFA
+https://radio.firanda.com/ufalive24.mp3
+
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/alhikmahfm.png" group-title="RELIGI", Radio Al-Hikmah
+http://live2.indostreamserver.com:8010/index.html?sid=1
 
 ############################################################################################################################################################
 ############################ ANAK-ANAK #############################################################################################################
