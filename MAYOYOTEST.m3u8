@@ -41,8 +41,77 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://imgcdn.solopos.com/@space/2023/10/logo-red-sparks.jpg" group-title="VOLLY MEGAWATI", VOLLY 2
 https://ythls.repl.co/channel/UCFeEHyACDmr5krZb5pHZdmw.m3u8
 
-###########################  PIALA DUNIA U-17  ####################################
+###########################  LIGA DUNIA  ####################################
 ############################################################################
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 1
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=525578&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 2
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=200273&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 3
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620786&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 4
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620785&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 5
+http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=620784&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 6
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=5481_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 7
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=208134_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 8
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564955_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 9
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564969_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 10
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564978_&extension=ts
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 11
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=727904_&extension=ts
+
+
+
+#EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LIVE 1
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=484729_&extension=ts
+#EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LIVE 2
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585228_&extension=ts
+#EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LIVE 3
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=567478_&extension=ts
+#EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LIVE 4
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=6380_&extension=ts
+#EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LIVE 5
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=208145_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/30/logo-la-liga-spanyol-2478579096.jpg" group-title="#🇪🇸LIVE LA LIGA🇪🇸#", LIVE 1
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=652924_&extension=ts
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/30/logo-la-liga-spanyol-2478579096.jpg" group-title="#🇪🇸LIVE LA LIGA🇪🇸#", LIVE 2
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=6382_&extension=ts
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/30/logo-la-liga-spanyol-2478579096.jpg" group-title="#🇪🇸LIVE LA LIGA🇪🇸#", LIVE 3
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=725456_&extension=ts
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/30/logo-la-liga-spanyol-2478579096.jpg" group-title="#🇪🇸LIVE LA LIGA🇪🇸#", LIVE 4
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=37_&extension=ts
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/30/logo-la-liga-spanyol-2478579096.jpg" group-title="#🇪🇸LIVE LA LIGA🇪🇸#", LIVE 5
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=6595_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 1
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=501436_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 2
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585225_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 3
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=220767_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 4
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520189_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 5
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564979_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪#", LIVE 1
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564959_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪#", LIVE 2
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=657114_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪#", LIVE 3
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=435_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪#", LIVE 4
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=436_&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪#", LIVE 5
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=501441_&extension=ts
 
 ###########################  BEIN SPORT CHANNEL ####################################
 ############################################################################
