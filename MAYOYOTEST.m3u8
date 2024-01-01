@@ -1574,15 +1574,15 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/287792
 ############### TV Nasional #######################################
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
+http://myteve.online:8080/Abraham/6b3ca724a0/162138
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683194&extension=ts&play_token=GVZS088tcf 
+http://sysadminhost.net:8080/a04bfdfc/75c1b6d094/165060
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683153&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683116&extension=ts&play_token=GVZS088tcf
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="NASIONAL", TRANS TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683100&extension=ts&play_token=GVZS088tcf
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL", RCTI
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL", MNC TV
@@ -1590,11 +1590,11 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extensi
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL", GTV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683121&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV One
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683101&extension=ts&play_token=GVZS088tcf 
+http://sysadminhost.net:8080/a04bfdfc/75c1b6d094/296214 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NASIONAL", Metro TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683181&extension=ts&play_token=GVZS088tcf 
+http://iptvs.life:8080/05add9be/b4ee4abbd2/165059
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="NASIONAL", Net TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683093&extension=ts&play_token=GVZS088tcf 
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683093&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="NASIONAL", Rajawali TV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683095&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="NASIONAL", OK TV
@@ -1708,7 +1708,7 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683089&extensi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png" group-title="NASIONAL", OUTDOOR
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683086&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/45/Moji_gradient.svg.png/200px-Moji_gradient.svg.pngg" group-title="NASIONAL", MOJI
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683089&extension=ts&play_token=GVZS088tcf
+http://37.49.225.197:8080/F31068/8fd17683/298550
 
 ###########################################################################################################################
 ##################  MOVIES  ########################################################################################
