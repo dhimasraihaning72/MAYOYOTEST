@@ -35,7 +35,7 @@ refresh="3600"
 ###########################  JUARA TV  ####################################
 ############################################################################
 
-#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 1
+#E#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 1
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606222&extension=ts&play_token=9Tkwk6UcYs
 #EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="#▶️JUARA SPORTS◀️#", LIVE 2
 http://king4k.tv/play/live.php?mac=00:1A:79:A5:DD:10&stream=606221&extension=ts&play_token=9Tkwk6UcYs
@@ -162,6 +162,28 @@ https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10
 #KODIPROP:inputstream.adaptive.license_key=cdb6f38ce29ecfe657c7cade307587da:d38d7243bd224a9c2b1ea716f19c9950
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
 
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQmxcB6jXeVzLxIIuYMM_4ACPD6dacRNNBgA&usqp=CAU", CHAMPION TV 5
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
+https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
+
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tFgyP7eXEuYuYBM7CAG6_Dx7aBeJ5h3QZA&usqp=CAU", BEIN SPORT 1 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tFgyP7eXEuYuYBM7CAG6_Dx7aBeJ5h3QZA&usqp=CAU", BEIN SPORT 2 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+
+#EXTINF:-1 group-title="#▶️JUARA SPORTS◀️#" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tFgyP7eXEuYuYBM7CAG6_Dx7aBeJ5h3QZA&usqp=CAU", BEIN SPORT 3 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
 
 
 ###########################  LIGA DUNIA  ####################################
@@ -211,9 +233,11 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078723&extensi
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078722&extension=ts&play_token=yK7Ppvy2j
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 22
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078720&extension=ts&play_token=yK7Ppvy2j
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="#🇬🇧LIVE PREMIER LIGA🇬🇧#", LIVE 23
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=ts&play_token=jX6fRmXSK2
 
 
-#EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LIVE 1
+TINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LIVE 1
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=484729_&extension=ts
 #EXTINF:-1 tvg-logo="https://ligalaga.id/wp-content/uploads/2019/08/Serie-A-Logo-Sempre-Inter.jpg" group-title="#🇮🇹LIVE LIGA SERI A🇮🇹#", LIVE 2
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585228_&extension=ts
@@ -235,6 +259,7 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=37_&exte
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/07/30/logo-la-liga-spanyol-2478579096.jpg" group-title="#🇪🇸LIVE LA LIGA🇪🇸#", LIVE 5
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=6595_&extension=ts
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 1
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=501436_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 2
@@ -246,6 +271,7 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=520189_&
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/327px-Ligue1_Uber_Eats_logo.png" group-title="#🇫🇷LIVE LIGA FRANCE🇫🇷#", LIVE 5
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564979_&extension=ts
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪#", LIVE 1
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564959_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪#", LIVE 2
@@ -256,6 +282,7 @@ http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=435_&ext
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=436_&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/3/3e/Bundesliga-Logo-2010.png" group-title="#🇩🇪LIVE BUNDES LIGA🇩🇪#", LIVE 5
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=501441_&extension=ts
+
 
 ###########################  BEIN SPORT CHANNEL ####################################
 ############################################################################
